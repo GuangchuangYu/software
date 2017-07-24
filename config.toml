@@ -43,9 +43,10 @@ relativeurls = true
 
 
 [social]
-	twitter = ""
+	twitter = "guangchuangyu"
 	github  = "GuangchuangYu"
 	email   = "guangchuangyu@gmail.com"
+  wechat  = "biobabble"
 
 
 [[menu.main]]

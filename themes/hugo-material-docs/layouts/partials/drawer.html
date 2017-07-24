@@ -45,7 +45,7 @@
         {{ if isset .Site.Params "author" }}
         <hr>
         <span class="section">The author</span>
-        
+
         <ul>
           {{ with .Site.Social.twitter }}
           <li>
@@ -67,6 +67,14 @@
           <li>
             <a href="mailto:{{ . }}" title="Email of {{ . }}">
               Contact via email
+            </a>
+          </li>
+          {{ end }}
+
+          {{ with .Site.Social.wechat }}
+          <li>
+            <a href="https://guangchuangyu.github.io/blog_images/biobabble.jpg" title="关注公众号: {{ . }}">
+              关注公众号
             </a>
           </li>
           {{ end }}
