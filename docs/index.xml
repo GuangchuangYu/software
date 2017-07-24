@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 00:11:02 +0100</lastBuildDate>
     
 	<atom:link href="https://guangchuangyu.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Download stats</title>
+      <link>https://guangchuangyu.github.io/software/download-stats/</link>
+      <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
+      
+      <guid>https://guangchuangyu.github.io/software/download-stats/</guid>
+      <description>{&#34;x&#34;:{&#34;data&#34;:[{&#34;x&#34;:[1398816000000,1401494400000,1404086400000,1406764800000,1409443200000,1412035200000,1414713600000,1419984000000,1425081600000,1427760000000,1430352000000,1433030400000,1435622400000,1438300800000,1440979200000,1443571200000,1446249600000,1448841600000,1451520000000,1454198400000,1456704000000,1459382400000,1461974400000,1464652800000,1467244800000,1469923200000,1472601600000,1475193600000,1480464000000,1483142400000,1485820800000,1488240000000,1490918400000,1493510400000,1496188800000,1498780800000],&#34;y&#34;:[111,200,333,241,304,354,262,205,316,386,368,338,258,393,387,356,406,393,387,412,404,535,455,488,493,459,433,366,530,476,431,390,423,518,576,568],&#34;text&#34;:[&#34;end: 16190
+Nb_of_distinct_IPs: 111
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16221
+Nb_of_distinct_IPs: 200
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16251
+Nb_of_distinct_IPs: 333
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16282
+Nb_of_distinct_IPs: 241
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16313
+Nb_of_distinct_IPs: 304
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16343
+Nb_of_distinct_IPs: 354
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16374
+Nb_of_distinct_IPs: 262
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16435
+Nb_of_distinct_IPs: 205
+package: ChIPseeker
+package: ChIPseeker&#34;,&#34;end: 16494
+Nb_of_distinct_IPs: 316
+package: ChIPseeker
+package: ChIPseeker&#34;</description>
+    </item>
     
     <item>
       <title>Getting started</title>
