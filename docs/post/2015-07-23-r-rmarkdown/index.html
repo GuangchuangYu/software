@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="alternate" href="/index.xml" type="application/rss+xml" title="My New Hugo Site">
+		<link rel="icon" href="https://guangchuangyu.github.io/software/favicon.ico">
+		<title>Hello R Markdown - My New Hugo Site</title>
+		
+		<link rel="stylesheet" href="https://guangchuangyu.github.io/software/css/highlight/default.css">
+		<link rel="stylesheet" href="https://guangchuangyu.github.io/software/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://guangchuangyu.github.io/software/css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="https://guangchuangyu.github.io/software/css/theme.css">
+		<link rel="stylesheet" href="https://guangchuangyu.github.io/software/css/bootie-docs.css">
+		<link rel="stylesheet" href="https://guangchuangyu.github.io/software/css/site.css">
+	</head>
+
+<body role="document">
+
+	
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="https://guangchuangyu.github.io/software/">My New Hugo Site</a>
+			</div>
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li ><a href="https://guangchuangyu.github.io/software/">Home</a></li>
+			
+			
+				
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Categories<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+						
+							<li><a href="https://guangchuangyu.github.io/software/categories/r">R</a></li>
+						
+						</ul>
+					</li>
+				
+				</ul>
+				
+			</div>
+		</div>
+	</nav>
+
+<div class="container">
+
+
+<div class="row">
+	<div class="col-sm-8 doc-main">
+		<main role="main">
+			<article>
+				<a id="title"></a>
+				<h1 class="doc-entry-title">Hello R Markdown</h1>
+				<div class="doc-entry-meta">
+					<span><time datetime="2015-07-23">July 23, 2015</time></span>
+				</div>
+				<section>
+					<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="/softwarepost/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+
+				</section>
+			</article>
+		</main>
+	</div> 
+
+	
+
+<div class="col-sm-3 col-sm-offset-1 doc-sidebar">
+	<div id="sidebar">
+	<div class="sidebar-module">
+		<div class="sidebar-toc">
+			<h4 class="sidebar-heading">Table of Contents</h4>
+			<ul>
+				<li><strong><a href="#title">Hello R Markdown</a></strong></li>
+			</ul>
+			
+		</div>
+	</div>
+	<div class="sidebar-module">
+		<h4 class="sidebar-heading">Pages in Categories</h4>
+		<ul class="sidebar-category-list">
+		
+			<li>
+				<a href="https://guangchuangyu.github.io/software/categories/r">
+					<span class="doc-list-category">R</span>
+				</a>
+				<ul>
+					<li>
+						<span class="active">Hello R Markdown</span>
+						</li>
+				
+				</ul>
+			</li>
+		
+		</ul>
+	</div>
+	<div class="sidebar-module">
+		<h4 class="sidebar-heading">Tags</h4>
+		<div class="tag-box">
+		
+			<a class="tag-item" href="https://guangchuangyu.github.io/software/tags/plot">plot</a>
+		
+			<a class="tag-item" href="https://guangchuangyu.github.io/software/tags/r-markdown">r-markdown</a>
+		
+			<a class="tag-item" href="https://guangchuangyu.github.io/software/tags/regression">regression</a>
+		
+		</div>
+	</div>
+	</div>
+</div>
+
+</div> 
+
+
+<hr />
+
+<div class="row">
+	<div class="col-sm-8">
+		<p class="doc-footer-em"><a href="#" onclick="resetSidebarPos()">Back to TOP</a></p>
+	</div>
+</div>
+
+</div> 
+
+<footer class="doc-footer">
+	
+	
+	<p>Powered by <strong><a href="https://github.com/progrhyme/hugo-theme-bootie-docs">Bootie Docs</a></strong> - theme for <a href="http://gohugo.io/">Hugo</a> by <a href="https://github.com/progrhyme/">progrhyme</a>.</p>
+</footer>
+
+
+
+<script src="https://guangchuangyu.github.io/software/js/jquery.min.js"></script>
+<script src="https://guangchuangyu.github.io/software/js/bootstrap.min.js"></script>
+
+<script src="https://guangchuangyu.github.io/software/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script src="https://guangchuangyu.github.io/software/js/ie10-viewport-bug-workaround.js"></script>
+<script src="https://guangchuangyu.github.io/software/js/bootie-docs.js"></script>
+
+</body>
+</html>

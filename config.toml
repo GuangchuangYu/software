@@ -1,0 +1,5 @@
+theme = "hugo-theme-bootie-docs"
+baseURL = "https://guangchuangyu.github.io/software"
+languageCode = "en-us"
+title = "My New Hugo Site"
+publishDir = "docs"
