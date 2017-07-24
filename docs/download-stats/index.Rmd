@@ -5,11 +5,11 @@ weight: 1
 ---
 
 
-```{r echo=F, warning=F, message=F, fig.width=8, fig.height=6}
+```{r echo=F, warning=F, message=F, fig.width=10, fig.height=20}
 library(dlstats)
 library(dplyr)
 library(ggplot2)
-library(plotly)
+library(cowplot)
 pkg <- c("ChIPseeker",
          "clusterProfiler",
          "DOSE",
@@ -21,12 +21,30 @@ pkg <- c("ChIPseeker",
 d <- bioc_stats(pkg)
 last_month_idx <- group_by(d, package) %>% summarize(which.max(end))
 d <- d[-last_month_idx[[2]],]
+
+if(FALSE) {
 p <- ggplot(d, aes(end, Nb_of_distinct_IPs, color=package)) +
     geom_line() + geom_point() + theme_minimal() + xlab(NULL) + ylab(NULL) +
     labs(title="Monthly download stats (distinct IPs)",
          caption="data from Bioconductor") +
     theme(legend.title=element_blank(), legend.position=c(.08, .7))
-ggplotly(p)
+#plotly::ggplotly(p)
 #print(p)
+}
+
+dl <- split(d, d$package)
+cl <- colorspace::rainbow_hcl(length(dl))
+
+pp <- lapply(seq_along(dl), function(i) {
+    ggplot(dl[[i]], aes(end, Nb_of_distinct_IPs)) + 
+    geom_line(color=cl[i]) + geom_point(color=cl[i]) + theme_minimal() + xlab(NULL) + ylab(NULL) +
+    labs(title = names(dl)[i])
+})
+
+p1 <- plot_grid(plotlist=pp, ncol=2)
+
+
+p2 <- add_sub(p1, "Monthly download stats (distinct IPs), data from Bioconductor", x = .99, hjust = 1)
+ggdraw(p2)
 ```
 
