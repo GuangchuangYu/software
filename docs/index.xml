@@ -22,9 +22,9 @@
     </item>
     
     <item>
-      <title>Material for Hugo</title>
+      <title>Software authored by Guangchuang Yu</title>
       <link>https://guangchuangyu.github.io/software/</link>
-      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      <pubDate>Sat, 08 Jul 2017 21:07:13 +0100</pubDate>
       
       <guid>https://guangchuangyu.github.io/software/</guid>
       <description>I have developed 6 packages on CRAN and 8 on Bioconductor. For CRAN packages, you can use install.packages() to install them directly and for Bioconductor packages, you need to follow the guide on package homepage by using biocLite() to install.
