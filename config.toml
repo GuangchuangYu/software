@@ -1,4 +1,4 @@
-baseurl = "https://guangchuangyu.github.io/software"
+baseurl = "https://guangchuangyu.github.io/software/"
 languageCode = "en-us"
 title = "Material Docs"
 theme = "hugo-material-docs"
@@ -7,6 +7,7 @@ canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
 publishDir = "docs"
+
 
 [params]
 	# General information
