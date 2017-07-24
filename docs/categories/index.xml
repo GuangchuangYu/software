@@ -11,14 +11,5 @@
 	<atom:link href="https://guangchuangyu.github.io/software/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>R</title>
-      <link>https://guangchuangyu.github.io/software/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/categories/r/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

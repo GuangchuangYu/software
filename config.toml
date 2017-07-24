@@ -52,6 +52,11 @@ publishDir = "docs"
 	weight = 0
 
 [[menu.main]]
+	name   = "Download stats"
+	url    = "download-stats/"
+	weight = 1
+
+[[menu.main]]
 	name   = "Getting started"
 	url    = "getting-started/"
 	weight = 10

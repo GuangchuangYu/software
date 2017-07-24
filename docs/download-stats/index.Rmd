@@ -1,0 +1,33 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+html_preview: false
+always_allow_html: yes
+---
+
+
+```{r echo=F, warning=F, message=F, fig.width=8, fig.height=6}
+library(dlstats)
+library(dplyr)
+library(ggplot2)
+library(plotly)
+pkg <- c("ChIPseeker",
+         "clusterProfiler",
+         "DOSE",
+         "ggtree",
+         "GOSemSim",
+         "meshes",
+         "ReactomePA",
+         "treeio")
+d <- bioc_stats(pkg)
+last_month_idx <- group_by(d, package) %>% summarize(which.max(end))
+d <- d[-last_month_idx[[2]],]
+p <- ggplot(d, aes(end, Nb_of_distinct_IPs, group=package, color=package)) +
+    geom_line() + geom_point() + theme_minimal() + xlab(NULL) + ylab(NULL) +
+    labs(title="Monthly download stats (distinct IPs)",
+         caption="data from Bioconductor") +
+    theme(legend.title=element_blank(), legend.position=c(.08, .7))
+ggplotly(p)
+```
+
