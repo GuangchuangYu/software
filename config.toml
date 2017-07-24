@@ -18,9 +18,9 @@ relativeurls = true
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://guangchuangyu.github.io"
+	repo_url = "https://github.com/GuangchuangYu/software"
 
-	version = "1.0.0"
+	# version = "1.0.0"
 	logo = "images/logo.png"
 	favicon = ""
 
@@ -56,7 +56,7 @@ relativeurls = true
 [[menu.main]]
 	name   = "Download stats"
 	url    = "download-stats/"
-	weight = 1
+	weight = 10
 
 
 [blackfriday]
