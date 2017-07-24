@@ -12,6 +12,9 @@ I have developed **6** packages on `CRAN` and **8** on `Bioconductor`. For `CRAN
 
 If you are interesting, please visit their homepage to learn more.
 
+```{r echo=F, message=F}
+packageTitle <- ypages:::packageTitle
+```
 
 + CRAN
 	- [badger](http://cran.r-project.org/package=badger): `r packageTitle('badger', 'CRAN')`

@@ -1,0 +1,36 @@
+---
+date: 2016-03-08T21:07:13+01:00
+title: Material for Hugo
+type: index
+weight: 0
+---
+
+
+
+I have developed **6** packages on `CRAN` and **8** on `Bioconductor`. For `CRAN` packages, you can use `install.packages()` to install them directly and for `Bioconductor` packages, you need to follow the guide on package homepage by using `biocLite()` to install.
+
+
+If you are interesting, please visit their homepage to learn more.
+
+```{r echo=F, message=F}
+packageTitle <- ypages:::packageTitle
+```
+
++ CRAN
+	- [badger](http://cran.r-project.org/package=badger): `r packageTitle('badger', 'CRAN')`
+	- [dlstats](http://cran.r-project.org/package=dlstats): `r packageTitle('dlstats', 'CRAN')`
+	- [emojifont](http://cran.r-project.org/package=emojifont): `r packageTitle('emojifont', 'CRAN')`
+	- [ggimage](http://cran.r-project.org/package=ggimage): `r packageTitle('ggimage', 'CRAN')`
+	- [rvcheck](http://cran.r-project.org/package=rvcheck): `r packageTitle('rvcheck', 'CRAN')`
+	- [scatterpie](http://cran.r-project.org/package=scatterpie): `r packageTitle('scatterpie', 'CRAN')`
+
++ Bioconductor
+	- [ChIPseeker](https://guangchuangyu.github.io/ChIPseeker): `r packageTitle('ChIPseeker', 'BioC')`
+	- [clusterProfiler](https://guangchuangyu.github.io/clusterProfiler): `r packageTitle('clusterProfiler', 'BioC')`
+	- [DOSE](https://guangchuangyu.github.io/DOSE): `r packageTitle('DOSE', 'BioC')`
+	- [ggtree](https://guangchuangyu.github.io/ggtree): `r packageTitle('ggtree', 'BioC')`
+	- [GOSemSim](https://guangchuangyu.github.io/GOSemSim): `r packageTitle('GOSemSim', 'BioC')`
+	- [meshes](https://guangchuangyu.github.io/meshes): `r packageTitle('meshes', 'BioC')`
+	- [ReactomePA](https://guangchuangyu.github.io/ReactomePA): `r packageTitle('ReactomePA', 'BioC')`
+    - [treeio](https://www.bioconductor.org/packages/treeio): `r packageTitle('treeio', 'BioC')`
+

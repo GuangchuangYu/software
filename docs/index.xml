@@ -29,8 +29,7 @@
       <guid>https://guangchuangyu.github.io/software/</guid>
       <description>I have developed 6 packages on CRAN and 8 on Bioconductor. For CRAN packages, you can use install.packages() to install them directly and for Bioconductor packages, you need to follow the guide on package homepage by using biocLite() to install.
 If you are interesting, please visit their homepage to learn more.
- CRAN
- badger: r packageTitle(&#39;badger&#39;, &#39;CRAN&#39;) dlstats: r packageTitle(&#39;dlstats&#39;, &#39;CRAN&#39;) emojifont: r packageTitle(&#39;emojifont&#39;, &#39;CRAN&#39;) ggimage: r packageTitle(&#39;ggimage&#39;, &#39;CRAN&#39;) rvcheck: r packageTitle(&#39;rvcheck&#39;, &#39;CRAN&#39;) scatterpie: r packageTitle(&#39;scatterpie&#39;, &#39;CRAN&#39;)  Bioconductor</description>
+ CRAN  badger: Badge for R Package dlstats: Download Stats of R Packages emojifont: Emoji and Font Awesome in Graphics ggimage: Use Image in ‘ggplot2’ rvcheck: R/Package Version Check scatterpie: Scatter Pie Plot  Bioconductor  ChIPseeker: ChIPseeker for ChIP peak Annotation, Comparison, and Visualization clusterProfiler: statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data GOSemSim: GO-terms Semantic Similarity Measures meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis treeio: Base Classes and Functions for Phylogenetic Tree Input and Output   </description>
     </item>
     
   </channel>
