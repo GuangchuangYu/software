@@ -21,7 +21,7 @@ pkg <- c("ChIPseeker",
 d <- bioc_stats(pkg)
 last_month_idx <- group_by(d, package) %>% summarize(which.max(end))
 d <- d[-last_month_idx[[2]],]
-p <- ggplot(d, aes(end, Nb_of_distinct_IPs, group=package, color=package)) +
+p <- ggplot(d, aes(end, Nb_of_distinct_IPs, color=package)) +
     geom_line() + geom_point() + theme_minimal() + xlab(NULL) + ylab(NULL) +
     labs(title="Monthly download stats (distinct IPs)",
          caption="data from Bioconductor") +
