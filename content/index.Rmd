@@ -7,7 +7,9 @@ weight: 0
 
 
 
-I have developed **6** packages on `CRAN` and **8** on `Bioconductor`. For `CRAN` packages, you can use `install.packages()` to install them directly and for `Bioconductor` packages, you need to follow the guide on package homepage by using `biocLite()` to install.
+## R/Bioconductor packages
+
+I have developed **6** packages on `CRAN` and **9** on `Bioconductor`. For `CRAN` packages, you can use `install.packages()` to install them directly and for `Bioconductor` packages, you need to follow the guide on package homepage by using `biocLite()` to install.
 
 
 If you are interesting, please visit their homepage to learn more.
@@ -32,5 +34,16 @@ packageTitle <- ypages:::packageTitle
 	- [GOSemSim](https://guangchuangyu.github.io/GOSemSim): `r packageTitle('GOSemSim', 'BioC')`
 	- [meshes](https://guangchuangyu.github.io/meshes): `r packageTitle('meshes', 'BioC')`
 	- [ReactomePA](https://guangchuangyu.github.io/ReactomePA): `r packageTitle('ReactomePA', 'BioC')`
+    - [seqcombo](https://www.bioconductor.org/packages/seqcombo): `r packageTitle('seqcombo', 'BioC')`
     - [treeio](https://www.bioconductor.org/packages/treeio): `r packageTitle('treeio', 'BioC')`
 
+
+## JAVA
+
++ [TIPars](https://github.com/id-bioinfo/TIPars): Taxa Insertion by Parsimony
+
+
+## Contributions to open source libraries
+
++ [cowsay](https://cran.r-project.org/package=cowsay): `r packageTitle('cowsay', 'CRAN')`
++ [MSnbase](https://bioconductor.org/packages/MSnbase/): `r packageTitle('MSnbase', 'BioC')`
