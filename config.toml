@@ -56,6 +56,11 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	url    = "download-stats/"
 	weight = 10
 
+[[menu.main]]
+	name   = "Tweets"
+	url    = "tweets/"
+	weight = 50
+
 
 [blackfriday]
 	smartypants	= true
