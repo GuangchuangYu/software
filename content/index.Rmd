@@ -12,6 +12,12 @@ weight: 0
 I have developed **6** packages on `CRAN` and **9** on `Bioconductor`. For `CRAN` packages, you can use `install.packages()` to install them directly and for `Bioconductor` packages, you need to follow the guide on package homepage by using `biocLite()` to install.
 
 
+<img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/ChIPseeker/ChIPseeker.png" height="120"/>
+<img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/clusterProfiler/clusterProfiler.png" height="120"/>
+<img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/ggtree/ggtree.png" height="120"/>
+<img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/treeio/treeio.png" height="120"/>
+
+
 If you are interesting, please visit their homepage to learn more.
 
 ```{r echo=F, message=F}
