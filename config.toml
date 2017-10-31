@@ -50,6 +50,11 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	email   = "guangchuangyu@gmail.com"
  	wechat  = "biobabble"
 
+[[menu.main]]
+	name   = "Home"
+	url    = "/"
+	weight = 1
+
 
 [[menu.main]]
 	name   = "Download stats"
