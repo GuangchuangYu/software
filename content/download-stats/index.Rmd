@@ -5,7 +5,7 @@ weight: 10
 ---
 
 
-```{r echo=F, warning=F, message=F, fig.width=10, fig.height=20}
+```{r echo=F, warning=F, message=F, fig.width=10, fig.height=10}
 library(dlstats)
 library(dplyr)
 library(ggplot2)
@@ -17,6 +17,7 @@ pkg <- c("ChIPseeker",
          "GOSemSim",
          "meshes",
          "ReactomePA",
+         "seqcombo",
          "treeio")
 d <- bioc_stats(pkg)
 last_month_idx <- group_by(d, package) %>% summarize(which.max(end))
@@ -36,12 +37,12 @@ dl <- split(d, d$package)
 cl <- colorspace::rainbow_hcl(length(dl))
 
 pp <- lapply(seq_along(dl), function(i) {
-    ggplot(dl[[i]], aes(end, Nb_of_distinct_IPs)) + 
+    ggplot(dl[[i]], aes(end, Nb_of_distinct_IPs)) +
     geom_line(color=cl[i]) + geom_point(color=cl[i]) + theme_minimal() + xlab(NULL) + ylab(NULL) +
     labs(title = names(dl)[i])
 })
 
-p1 <- plot_grid(plotlist=pp, ncol=2)
+p1 <- plot_grid(plotlist=pp, ncol=3)
 
 
 p2 <- add_sub(p1, "Monthly download stats (distinct IPs), data from Bioconductor", x = .99, hjust = 1)
