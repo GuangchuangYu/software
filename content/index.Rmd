@@ -55,3 +55,8 @@ packageTitle <- ypages:::packageTitle
 
 + [cowsay](https://cran.r-project.org/package=cowsay): `r packageTitle('cowsay', 'CRAN')`
 + [MSnbase](https://bioconductor.org/packages/MSnbase/): `r packageTitle('MSnbase', 'BioC')`
+
+
+## MISC
+
++ [unofficial BioEdit for OSX](https://guangchuangyu.github.io/2016/03/yet-an-unofficial-bioedit-for-osx/)
