@@ -18,7 +18,7 @@ I have developed **8** packages on `CRAN` and **9** on `Bioconductor`. For `CRAN
 <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/treeio/treeio.png" height="120"/>
 
 
-If you are interesting, please visit their homepage to learn more.
+If you are interesting, please visit package homepage to learn more.
 
 ```{r echo=F, message=F}
 packageTitle <- ypages:::packageTitle
