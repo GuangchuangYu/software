@@ -45,6 +45,7 @@ blogdown::shortcode('tweet', '789840388638900225')
 ## meme
 
 ````{r echo=FALSE}
+blogdown::shortcode('tweet', '925395688216809472')
 blogdown::shortcode('tweet', '923212358603882496')
 blogdown::shortcode('tweet', '922385600484904960')
 ```
