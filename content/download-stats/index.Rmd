@@ -20,8 +20,8 @@ pkg <- c("ChIPseeker",
          "seqcombo",
          "treeio")
 d <- bioc_stats(pkg)
-last_month_idx <- group_by(d, package) %>% summarize(which.max(end))
-d <- d[-last_month_idx[[2]],]
+last_month_idx <- which(d$end == max(d$end))
+d <- d[-last_month_idx,]
 
 if(FALSE) {
 p <- ggplot(d, aes(end, Nb_of_distinct_IPs, color=package)) +
