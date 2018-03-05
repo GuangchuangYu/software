@@ -1,4 +1,4 @@
-baseurl = "https://guangchuangyu.github.io/ggtree/"
+baseurl = "https://guangchuangyu.github.io/software/ggtree/"
 languageCode = "en-us"
 title = "ggtree"
 theme = "hugo-material-docs"

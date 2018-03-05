@@ -6,7 +6,7 @@ ggtree:
 	cd wggtree;\
 	ln -s ../themes themes;\
 	Rscript -e 'blogdown::build_site()';\
-	rm themes;\
+	##rm themes;\
 	cd ..
 
 vignette_ggtree:
