@@ -1,4 +1,6 @@
-build:
+all: home ggtree
+
+home:
 	Rscript -e 'blogdown::build_site()'
 
 

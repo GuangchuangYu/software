@@ -15,9 +15,9 @@ weight: 10
 + [Tree Visualization](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeVisualization.html)
 + [Tree Annotation](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeAnnotation.html)
 + [Tree Manipulation](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeManipulation.html)
-+ [Advance Tree Annotation](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/advanceTreeAnnotation.html)
-+ [ggtree utilities](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/ggtreeUtilities.html)
 + [Phylomoji](https://cran.r-project.org/web/packages/emojifont/vignettes/phylomoji.html)
++ [Annotating phylogenetic tree with images](https://guangchuangyu.github.io/software/ggtree/vignettes/ggtree-ggimage.html)
++ [Annotate a phylogenetic tree with insets](https://guangchuangyu.github.io/software/ggtree/vignettes/ggtree-inset.html)
 
 
 ## <i class="fa fa-wordpress"></i> Blog posts
