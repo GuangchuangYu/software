@@ -1,19 +1,18 @@
-all: home ggtree
+all: home ggtree treeio
 
 home:
 	Rscript -e 'blogdown::build_site()'
-
-
-treeio:
-	cd wtreeio;\
-	Rscript -e 'blogdown::build_site()';\
-	cd ..
 
 ggtree:
 	cd wggtree;\
 	## ln -s ../themes themes;\
 	Rscript -e 'blogdown::build_site()';\
 	## rm themes;\
+	cd ..
+
+treeio:
+	cd wtreeio;\
+	Rscript -e 'blogdown::build_site()';\
 	cd ..
 
 vignette_ggtree:
