@@ -4,10 +4,8 @@ home:
 	Rscript -e 'blogdown::build_site()'
 
 ggtree:
-	cd wggtree;\
-	## ln -s ../themes themes;\
+	cd wggtree;
 	Rscript -e 'blogdown::build_site()';\
-	## rm themes;\
 	cd ..
 
 treeio:

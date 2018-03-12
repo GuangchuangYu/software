@@ -21,6 +21,9 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Sustained transmission of high-level azithromycin-resistant *Neisseria gonorrhoeae* in England: an observational study](https://www.sciencedirect.com/science/article/pii/S1473309918301221). **_The Lancet Infectious Disease_**. 2018.
+
+
 [DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton](https://www.nature.com/articles/s41564-018-0119-5).
 **_Nature Microbiology_**, 2018.
 

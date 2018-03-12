@@ -11,6 +11,12 @@ weight: 50
 
 
 ````{r echo=FALSE}
+blogdown::shortcode('tweet', '973078955120046080')
+blogdown::shortcode('tweet', '971033872019402753')
+blogdown::shortcode('tweet', '967055943409262594')
+blogdown::shortcode('tweet', '965996335882059776')
+blogdown::shortcode('tweet', '962311377716117504')
+blogdown::shortcode('tweet', '962303902417915905')
 blogdown::shortcode('tweet', '959261994531487745')
 blogdown::shortcode('tweet', '958894328914501634')
 blogdown::shortcode('tweet', '955311827063226368')
