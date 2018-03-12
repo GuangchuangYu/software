@@ -18,16 +18,7 @@ blogdown::shortcode('tweet', '694548115118907392')
 blogdown::shortcode('tweet', '562958603699892225')
 ```
 
-## clusterProfiler
 
-````{r echo=FALSE}
-blogdown::shortcode('tweet', '902549535951650816')
-blogdown::shortcode('tweet', '852547894444011522')
-blogdown::shortcode('tweet', '845164181695320070')
-blogdown::shortcode('tweet', '621314381763186688')
-blogdown::shortcode('tweet', '575958885258919936')
-blogdown::shortcode('tweet', '565642325049999360')
-```
 
 ## GOSemSim
 

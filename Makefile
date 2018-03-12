@@ -1,7 +1,15 @@
-all: home ggtree treeio
+all: home clusterProfiler phylopkg
+
+
+phylopkg: ggtree treeio
 
 home:
 	Rscript -e 'blogdown::build_site()'
+
+clusterProfiler:
+	cd wclusterProfiler;
+	Rscript -e 'blogdown::build_site()';\
+	cd ..
 
 ggtree:
 	cd wggtree;
