@@ -55,12 +55,6 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	url    = "/"
 	weight = 1
 
-
-[[menu.main]]
-	name   = "Download stats"
-	url    = "download-stats/"
-	weight = 10
-
 [[menu.main]]
 	name   = "Tweets"
 	url    = "tweets/"

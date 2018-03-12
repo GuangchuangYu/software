@@ -5,7 +5,7 @@ weight: 10
 ---
 
 
-```{r echo=F, warning=F, message=F, fig.width=10, fig.height=10}
+```{r echo=F, warning=F, message=F, fig.width=10, fig.height=10, eval=F}
 library(dlstats)
 library(dplyr)
 library(ggplot2)
