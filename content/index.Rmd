@@ -37,7 +37,7 @@ packageTitle <- ypages:::packageTitle
 
 + Bioconductor
 	- [ChIPseeker](https://guangchuangyu.github.io/ChIPseeker): `r packageTitle('ChIPseeker', 'BioC')`
-	- [clusterProfiler](https://guangchuangyu.github.io/clusterProfiler): `r packageTitle('clusterProfiler', 'BioC')`
+	- [clusterProfiler](https://guangchuangyu.github.io/software/clusterProfiler): `r packageTitle('clusterProfiler', 'BioC')`
 	- [DOSE](https://guangchuangyu.github.io/DOSE): `r packageTitle('DOSE', 'BioC')`
 	- [enrichplot](https://www.bioconductor.org/packages/enrichplot): `r packageTitle('enrichplot', 'BioC')`
     - [ggtree](https://guangchuangyu.github.io/software/ggtree): `r packageTitle('ggtree', 'BioC')`
@@ -45,7 +45,7 @@ packageTitle <- ypages:::packageTitle
 	- [meshes](https://guangchuangyu.github.io/meshes): `r packageTitle('meshes', 'BioC')`
 	- [ReactomePA](https://guangchuangyu.github.io/ReactomePA): `r packageTitle('ReactomePA', 'BioC')`
     - [seqcombo](https://www.bioconductor.org/packages/seqcombo): `r packageTitle('seqcombo', 'BioC')`
-    - [treeio](https://www.bioconductor.org/packages/treeio): `r packageTitle('treeio', 'BioC')`
+    - [treeio](https://guangchuangyu.github.io/software/treeio): `r packageTitle('treeio', 'BioC')`
 
 
 ## JAVA
