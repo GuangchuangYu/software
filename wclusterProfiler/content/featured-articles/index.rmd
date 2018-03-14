@@ -18,6 +18,9 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[p38-MK2 signaling axis regulates RNA metabolism after UV-light-induced DNA damage](https://www.nature.com/articles/s41467-018-03417-3).
+**_Nature Communications_**. 2018, 9:1017.
+
 [Transcription factor Hoxb5 reprograms B cells into functional T lymphocytes](https://www.nature.com/articles/s41590-018-0046-x).
 **_Nature Immunology_**. 2018.
 
