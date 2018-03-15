@@ -12,6 +12,7 @@ weight: 30
 [Let us know](https://github.com/GuangchuangYu/featured_img) if you have published using `DOSE` and your publication will be featured here.
 
 ```{r citation, echo=F, message=F, comment=NA, fig.width=8, fig.height=4}
+library("ggplot2")
 library("yyplot")
 
 plot_citation_trend('DO5oG40AAAAJ', 'Ug5p-4gJ2f0C')

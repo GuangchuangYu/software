@@ -4,10 +4,15 @@ all: home enrichpkg phylopkg
 home:
 	Rscript -e 'blogdown::build_site()'
 
-enrichpkg: clusterProfiler ReactomePA
+enrichpkg: clusterProfiler DOSE ReactomePA
 
 clusterProfiler:
 	cd wclusterProfiler;\
+	Rscript -e 'blogdown::build_site()';\
+	cd ..
+
+DOSE:
+	cd wDOSE;\
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
 

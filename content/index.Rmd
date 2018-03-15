@@ -38,7 +38,7 @@ packageTitle <- ypages:::packageTitle
 + Bioconductor
 	- [ChIPseeker](https://guangchuangyu.github.io/ChIPseeker): `r packageTitle('ChIPseeker', 'BioC')`
 	- [clusterProfiler](https://guangchuangyu.github.io/software/clusterProfiler): `r packageTitle('clusterProfiler', 'BioC')`
-	- [DOSE](https://guangchuangyu.github.io/DOSE): `r packageTitle('DOSE', 'BioC')`
+	- [DOSE](https://guangchuangyu.github.io/software/DOSE): `r packageTitle('DOSE', 'BioC')`
 	- [enrichplot](https://www.bioconductor.org/packages/enrichplot): `r packageTitle('enrichplot', 'BioC')`
     - [ggtree](https://guangchuangyu.github.io/software/ggtree): `r packageTitle('ggtree', 'BioC')`
 	- [GOSemSim](https://guangchuangyu.github.io/GOSemSim): `r packageTitle('GOSemSim', 'BioC')`
