@@ -43,7 +43,7 @@ packageTitle <- ypages:::packageTitle
     - [ggtree](https://guangchuangyu.github.io/software/ggtree): `r packageTitle('ggtree', 'BioC')`
 	- [GOSemSim](https://guangchuangyu.github.io/GOSemSim): `r packageTitle('GOSemSim', 'BioC')`
 	- [meshes](https://guangchuangyu.github.io/meshes): `r packageTitle('meshes', 'BioC')`
-	- [ReactomePA](https://guangchuangyu.github.io/ReactomePA): `r packageTitle('ReactomePA', 'BioC')`
+	- [ReactomePA](https://guangchuangyu.github.io/software/ReactomePA): `r packageTitle('ReactomePA', 'BioC')`
     - [seqcombo](https://www.bioconductor.org/packages/seqcombo): `r packageTitle('seqcombo', 'BioC')`
     - [treeio](https://guangchuangyu.github.io/software/treeio): `r packageTitle('treeio', 'BioC')`
 

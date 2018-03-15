@@ -1,18 +1,25 @@
-all: home clusterProfiler phylopkg
+all: home enrichpkg phylopkg
 
-
-phylopkg: ggtree treeio
 
 home:
 	Rscript -e 'blogdown::build_site()'
 
+enrichpkg: clusterProfiler ReactomePA
+
 clusterProfiler:
-	cd wclusterProfiler;
+	cd wclusterProfiler;\
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
 
+ReactomePA:
+	cd wReactomePA;\
+	Rscript -e 'blogdown::build_site()';\
+	cd ..
+
+phylopkg: ggtree treeio
+
 ggtree:
-	cd wggtree;
+	cd wggtree;\
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
 
