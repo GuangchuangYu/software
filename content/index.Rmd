@@ -37,7 +37,7 @@ packageTitle <- ypages:::packageTitle
     - [tidytree](http://cran.r-project.org/package=tidytree): `r packageTitle('tidytree', 'CRAN')`
 
 + Bioconductor
-	- [ChIPseeker](https://guangchuangyu.github.io/ChIPseeker): `r packageTitle('ChIPseeker', 'BioC')`
+	- [ChIPseeker](https://guangchuangyu.github.io/software/ChIPseeker): `r packageTitle('ChIPseeker', 'BioC')`
 	- [clusterProfiler](https://guangchuangyu.github.io/software/clusterProfiler): `r packageTitle('clusterProfiler', 'BioC')`
 	- [DOSE](https://guangchuangyu.github.io/software/DOSE): `r packageTitle('DOSE', 'BioC')`
 	- [enrichplot](https://www.bioconductor.org/packages/enrichplot): `r packageTitle('enrichplot', 'BioC')`
@@ -56,9 +56,12 @@ packageTitle <- ypages:::packageTitle
 
 ## Contributions to open source libraries
 
-+ [cowsay](https://cran.r-project.org/package=cowsay): `r packageTitle('cowsay', 'CRAN')`
-+ [MSnbase](https://bioconductor.org/packages/MSnbase/): `r packageTitle('MSnbase', 'BioC')`
-
++ [basicTrendline](https://cran.r-project.org/package=basicTrendline):   `r packageTitle('basicTrendline', 'CRAN')`
++ [cowsay](https://cran.r-project.org/package=cowsay):   `r packageTitle('cowsay', 'CRAN')`
++ [kableExtra](https://cran.r-project.org/package=kableExtra):   `r packageTitle('kableExtra', 'CRAN')`
++ [microbiomeViz](https://github.com/lch14forever/microbiomeViz): Visualizing Microbiome Data
++ [MSnbase](https://bioconductor.org/packages/MSnbase/):   `r packageTitle('MSnbase', 'BioC')`
++ [scholar](https://github.com/jkeirstead/scholar):   `r packageTitle('scholar', 'CRAN')`
 
 ## MISC
 

@@ -12,7 +12,6 @@ weight: 30
 
 
 ```{r citation, echo=F, message=F, comment=NA, fig.width=8, fig.height=4}
-library("ggplot2")
 library("yyplot")
 
 plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')

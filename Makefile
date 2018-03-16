@@ -4,6 +4,12 @@ all: home enrichpkg phylopkg semanticpkg
 home:
 	Rscript -e 'blogdown::build_site()'
 
+
+ChIPseeker:
+	cd wChIPseeker;\
+	Rscript -e 'blogdown::build_site()';\
+	cd ..
+
 semanticpkg: DOSE GOSemSim meshes
 
 DOSE:
