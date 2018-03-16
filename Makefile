@@ -1,18 +1,25 @@
-all: home enrichpkg phylopkg
+all: home enrichpkg phylopkg semanticpkg
 
 
 home:
 	Rscript -e 'blogdown::build_site()'
 
-enrichpkg: clusterProfiler DOSE ReactomePA
+semanticpkg: DOSE GOSemSim
 
-clusterProfiler:
-	cd wclusterProfiler;\
+GOSemSim:
+	cd wGOSemSim;\
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
 
 DOSE:
 	cd wDOSE;\
+	Rscript -e 'blogdown::build_site()';\
+	cd ..
+
+enrichpkg: clusterProfiler ReactomePA
+
+clusterProfiler:
+	cd wclusterProfiler;\
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
 

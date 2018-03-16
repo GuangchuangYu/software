@@ -9,7 +9,7 @@ weight: 0
 
 ## R/Bioconductor packages
 
-I have developed **9** packages on `CRAN` and **9** on `Bioconductor`. For `CRAN` packages, you can use `install.packages()` to install them directly and for `Bioconductor` packages, you need to follow the guide on package homepage by using `biocLite()` to install.
+I have developed **10** packages on `CRAN` and **9** on `Bioconductor`. For `CRAN` packages, you can use `install.packages()` to install them directly and for `Bioconductor` packages, you need to follow the guide on package homepage by using `biocLite()` to install.
 
 
 <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/ChIPseeker/ChIPseeker.png" height="120"/>
@@ -26,7 +26,8 @@ packageTitle <- ypages:::packageTitle
 
 + CRAN
 	- [badger](http://cran.r-project.org/package=badger): `r packageTitle('badger', 'CRAN')`
-	- [dlstats](http://cran.r-project.org/package=dlstats): `r packageTitle('dlstats', 'CRAN')`
+	- [base2grob](http://cran.r-project.org/package=base2grob): `r packageTitle('base2grob', 'CRAN')`
+    - [dlstats](http://cran.r-project.org/package=dlstats): `r packageTitle('dlstats', 'CRAN')`
 	- [emojifont](http://cran.r-project.org/package=emojifont): `r packageTitle('emojifont', 'CRAN')`
 	- [ggimage](http://cran.r-project.org/package=ggimage): `r packageTitle('ggimage', 'CRAN')`
     - [meme](http://cran.r-project.org/package=meme): `r packageTitle('meme', 'CRAN')`
@@ -41,7 +42,7 @@ packageTitle <- ypages:::packageTitle
 	- [DOSE](https://guangchuangyu.github.io/software/DOSE): `r packageTitle('DOSE', 'BioC')`
 	- [enrichplot](https://www.bioconductor.org/packages/enrichplot): `r packageTitle('enrichplot', 'BioC')`
     - [ggtree](https://guangchuangyu.github.io/software/ggtree): `r packageTitle('ggtree', 'BioC')`
-	- [GOSemSim](https://guangchuangyu.github.io/GOSemSim): `r packageTitle('GOSemSim', 'BioC')`
+	- [GOSemSim](https://guangchuangyu.github.io/software/GOSemSim): `r packageTitle('GOSemSim', 'BioC')`
 	- [meshes](https://guangchuangyu.github.io/meshes): `r packageTitle('meshes', 'BioC')`
 	- [ReactomePA](https://guangchuangyu.github.io/software/ReactomePA): `r packageTitle('ReactomePA', 'BioC')`
     - [seqcombo](https://www.bioconductor.org/packages/seqcombo): `r packageTitle('seqcombo', 'BioC')`
