@@ -58,7 +58,7 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
 	name   = "Tweets"
 	url    = "tweets/"
-	weight = 50
+	weight = 10
 
 
 [blackfriday]
