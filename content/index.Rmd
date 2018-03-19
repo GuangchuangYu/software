@@ -6,6 +6,8 @@ weight: 0
 ---
 
 
+`r badger::badge_custom("follow me on", "微信", "green", "https://guangchuangyu.github.io/blog_images/biobabble.jpg")`
+`r badger::badge_custom("打赏", "支付宝/微信", "green", "https://guangchuangyu.github.io/blog_images/pay_qrcode.png")`
 
 ## R/Bioconductor packages
 
@@ -67,3 +69,4 @@ packageTitle <- ypages:::packageTitle
 
 + [unofficial BioEdit for OSX](https://guangchuangyu.github.io/2016/03/yet-an-unofficial-bioedit-for-osx/):
   Biological sequence alignment editor
++ [SciHub苹果桌面版](https://www.jianshu.com/p/394374cf2b70)
