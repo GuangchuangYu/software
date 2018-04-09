@@ -30,6 +30,9 @@ This package implements functions to retrieve the nearest genes around the peak,
 
 Guangchuang Yu, School of Public Health, The University of Hong Kong.
 
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/GuangchuangYu)
+`r badger::badge_custom("follow me on", "微信", "green", "https://guangchuangyu.github.io/blog_images/biobabble.jpg")`
+`r badger::badge_custom("打赏", "支付宝/微信", "green", "https://guangchuangyu.github.io/blog_images/pay_qrcode.png")`
 
 
 ## <i class="fa fa-book"></i> Citation

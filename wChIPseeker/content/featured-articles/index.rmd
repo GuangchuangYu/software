@@ -18,6 +18,14 @@ library("yyplot")
 plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 ```
 
+## <i class="fa fa-calendar"></i> 2018
+
+[HSV-1-induced disruption of transcription termination resembles a cellular stress response but selectively increases chromatin accessibility downstream of genes](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006954).
+**_PLoS pathogens_**. 2018, 14(3):e1006954.
+
+[Enhancer variants reveal a conserved transcription factor network governed by PU.1 during osteoclast differentiation](https://www.nature.com/articles/s41413-018-0011-1).
+**_Bone Research_**. 2018, 6:8.
+
 
 ## <i class="fa fa-calendar"></i> 2017
 
