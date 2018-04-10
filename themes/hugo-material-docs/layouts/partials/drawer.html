@@ -57,20 +57,20 @@
 
           {{ with .Site.Social.github }}
           <li>
-            <a href="https://github.com/{{ . }}" target="_blank" title="@{{ . }} on GitHub">
-              @{{ . }} on GitHub
-            </a>
+              <a href="https://github.com/{{ . }}" target="_blank" title="@{{ . }} on GitHub">
+                  @{{ . }} on GitHub
+              </a>
           </li>
           {{ end }}
 
-          {{ with .Site.Social.wechat }}
-          <li>
-            <a href="https://guangchuangyu.github.io/blog_images/biobabble.jpg" title="关注微信公众号: {{ . }}">
-              关注微信公众号：{{ . }}
-            </a>
-          </li>
-          {{ end }}
-
+          <!--
+               {{ with .Site.Social.wechat }}
+               <li> <a href="https://guangchuangyu.github.io/blog_images/biobabble.jpg" title="关注微信公众号: {{ . }}">
+               关注微信公众号：{{ . }}
+               </a>
+               </li>
+               {{ end }}
+          -->
           {{ with .Site.Social.email }}
           <li>
               <a href="mailto:{{ . }}" title="Email of {{ . }}">
@@ -81,7 +81,7 @@
         </ul>
         {{ end }}
         <center><span class="zaln"><a href="https://guangchuangyu.github.io/2017/11/bmc-journal-protects-paper-of-plagiarism/" class="zb">Plea to against BMC</a></span></center>
-        <center><span class="zaln"><a href="https://guangchuangyu.github.io/blog_images/pay_qrcode.png" class="zb">赞赏</a></span></center>
+        <!-- <center><span class="zaln"><a href="https://guangchuangyu.github.io/blog_images/pay_qrcode.png" class="zb">赞赏</a></span></center> -->
         <div style="width:250px;margin:auto;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5qpvv5zz7fp&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
       </div>
     </div>

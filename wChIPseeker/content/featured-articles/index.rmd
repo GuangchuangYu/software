@@ -20,6 +20,10 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Heterochromatin protects retinal pigment epithelium cells from oxidative damage by silencing p53 target genes](https://doi.org/10.1073/pnas.1715237115).
+**_PNAS_**. 2018.
+
+
 [HSV-1-induced disruption of transcription termination resembles a cellular stress response but selectively increases chromatin accessibility downstream of genes](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006954).
 **_PLoS pathogens_**. 2018, 14(3):e1006954.
 
