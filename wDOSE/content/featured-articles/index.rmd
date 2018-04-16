@@ -21,6 +21,9 @@ plot_citation_trend('DO5oG40AAAAJ', 'Ug5p-4gJ2f0C')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Histone H3.3 sub-variant H3mm7 is required for normal skeletal muscle regeneration](https://www.nature.com/articles/s41467-018-03845-1).
+**_Nature Communications_**. 2018, 9:1400.
+
 [The effects of death and post-mortem cold ischemia on human tissue transcriptomes](https://www.nature.com/articles/s41467-017-02772-x).
 **_Nature Communications_**. 2018, 9:490.
 
