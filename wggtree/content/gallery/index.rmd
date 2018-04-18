@@ -7,7 +7,7 @@ weight: 40
 
 <link rel="stylesheet" href="https://guangchuangyu.github.io/css/font-awesome.min.css">
 
-![](https://guangchuangyu.github.io/featured_img/ggtree/1-s2.0-S1473309918301221-gr1)
+![](https://guangchuangyu.github.io/featured_img/ggtree/1-s2.0-S1473309918301221-gr1.jpg)
 
 <https://doi.org/10.1016/S1473-3099(18)30122-1>
 

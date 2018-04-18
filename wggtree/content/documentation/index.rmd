@@ -10,8 +10,9 @@ weight: 10
 
 ## <i class="fa fa-book"></i> Vignettes
 
++ [Importing trees with data](http://bioconductor.org/packages/devel/bioc/vignettes/treeio/inst/doc/Importer.html)
++ [Exporting trees with data](http://bioconductor.org/packages/devel/bioc/vignettes/treeio/inst/doc/Exporter.html)
 + [ggtree](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/ggtree.html)
-+ [Tree Data Import](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeImport.html)
 + [Tree Visualization](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeVisualization.html)
 + [Tree Annotation](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeAnnotation.html)
 + [Tree Manipulation](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeManipulation.html)
