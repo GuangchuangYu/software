@@ -28,10 +28,10 @@ packageTitle <- ypages:::packageTitle
 
 + CRAN
 	- [badger](http://cran.r-project.org/package=badger): `r packageTitle('badger', 'CRAN')`
-	- [base2grob](http://cran.r-project.org/package=base2grob): `r packageTitle('base2grob', 'CRAN')`
     - [dlstats](http://cran.r-project.org/package=dlstats): `r packageTitle('dlstats', 'CRAN')`
 	- [emojifont](http://cran.r-project.org/package=emojifont): `r packageTitle('emojifont', 'CRAN')`
 	- [ggimage](http://cran.r-project.org/package=ggimage): `r packageTitle('ggimage', 'CRAN')`
+	- [ggplotify](http://cran.r-project.org/package=ggplotify): `r packageTitle('ggplotify', 'CRAN')`
     - [meme](http://cran.r-project.org/package=meme): `r packageTitle('meme', 'CRAN')`
     - [rvcheck](http://cran.r-project.org/package=rvcheck): `r packageTitle('rvcheck', 'CRAN')`
 	- [scatterpie](http://cran.r-project.org/package=scatterpie): `r packageTitle('scatterpie', 'CRAN')`
