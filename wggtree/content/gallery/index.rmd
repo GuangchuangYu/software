@@ -7,6 +7,13 @@ weight: 40
 
 <link rel="stylesheet" href="https://guangchuangyu.github.io/css/font-awesome.min.css">
 
+![](https://guangchuangyu.github.io/featured_img/ggtree/13068_2018_1121_Fig3_HTML.gif)
+
+<https://doi.org/10.1186/s13068-018-1121-0>
+
+----
+
+
 ![](https://guangchuangyu.github.io/featured_img/ggtree/1-s2.0-S1473309918301221-gr1.jpg)
 
 <https://doi.org/10.1016/S1473-3099(18)30122-1>
@@ -22,7 +29,7 @@ weight: 40
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/2017_science.jpg)
 
-<http://dx.doi.org/10.1126/science.aao2136>
+<https://doi.org/10.1126/science.aao2136>
 
 ----
 
@@ -51,7 +58,7 @@ weight: 40
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/fmicb-08-00543-g0002.jpg)
 
-<http://dx.doi.org/10.3389/fmicb.2017.00543>
+<https://doi.org/10.3389/fmicb.2017.00543>
 
 ----
 
@@ -65,34 +72,34 @@ weight: 40
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/40168_2017_232_Fig2_HTML.gif)
 
-<http://dx.doi.org/10.1186/s40168-017-0232-3>
+<https://doi.org/10.1186/s40168-017-0232-3>
 
 ----
 
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/C2mxyBuUcAEt391.jpg)
-<http://dx.doi.org/10.1111/2041-210X.12628>
+<https://doi.org/10.1111/2041-210X.12628>
 
 ----
 
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/2017-01-21-115646_969x444_scrot.png)
 
-<http://dx.doi.org/10.1128/AEM.02307-16>
+<https://doi.org/10.1128/AEM.02307-16>
 
 ----
 
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/2016_fcimb-06-00036-g003.jpg)
 
-<http://dx.doi.org/10.3389%2Ffcimb.2016.00036>
+<https://doi.org/10.3389%2Ffcimb.2016.00036>
 
 ----
 
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/2015_peiyu_1-s2.0-S1567134815300721-gr1.jpg)
 
-<http://dx.doi.org/10.1016/j.meegid.2015.12.006>
+<https://doi.org/10.1016/j.meegid.2015.12.006>
 
 
 
