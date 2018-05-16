@@ -20,11 +20,14 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 
 ## <i class="fa fa-calendar"></i> 2018
 
-[Sustained transmission of high-level azithromycin-resistant *Neisseria gonorrhoeae* in England: an observational study](https://www.sciencedirect.com/science/article/pii/S1473309918301221). **_The Lancet Infectious Disease_**. 2018.
+[Recent Asian origin of chytrid fungi causing global amphibian declines](http://science.sciencemag.org/content/360/6389/621.full).
+**_Science_**, 2018, 360(6389):621-627.
+
+[Sustained transmission of high-level azithromycin-resistant *Neisseria gonorrhoeae* in England: an observational study](https://www.sciencedirect.com/science/article/pii/S1473309918301221), **_The Lancet Infectious Disease_**. 2018, 18(5):573-581.
 
 
 [DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton](https://www.nature.com/articles/s41564-018-0119-5).
-**_Nature Microbiology_**, 2018.
+**_Nature Microbiology_**, 2018, 3:430-439.
 
 [Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure](https://www.nature.com/articles/s41467-018-02967-w).
 **_Nature Communications_**, 2018, 9:693.
