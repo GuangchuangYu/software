@@ -52,7 +52,7 @@ __G Yu__, DK Smith, H Zhu, Y Guan, TTY Lam<sup>\*</sup>. ggtree: an R package fo
 
 ![](https://guangchuangyu.github.io/featured_img/ggtree/2015_peiyu_1-s2.0-S1567134815300721-gr1.jpg)
 
-<i class="fa fa-hand-o-right"></i> Find out more on <i class="fa fa-pencil"></i> [Featured Articles](https://guangchuangyu.github.io/ggtree/featuredArticles/).
+<i class="fa fa-hand-o-right"></i> Find out more on <i class="fa fa-pencil"></i> [Featured Articles](https://guangchuangyu.github.io/software/ggtree/featuredArticles/).
 
 ## <i class="fa fa-download"></i> Installation
 
@@ -90,7 +90,7 @@ yyplot::plot_dlstats_bioc("ggtree")
 
 + helper functions for tree manipulation, make it possible to explore the tree visually
 
-<i class="fa fa-hand-o-right"></i> Find out details and examples on <i class="fa fa-book"></i> [Documentation](https://guangchuangyu.github.io/ggtree/documentation/).
+<i class="fa fa-hand-o-right"></i> Find out details and examples on <i class="fa fa-book"></i> [Documentation](https://guangchuangyu.github.io/software/ggtree/documentation/).
 
 
 
