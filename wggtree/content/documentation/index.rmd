@@ -106,4 +106,5 @@ weight: 10
 ## <i class="fa fa-users"></i> Workshop
 
 
++ [Molecular Epidemiology of Viruses in R](https://github.com/sdwfrost/mevr-course-2016)
 + [Visualizing and Annotating Phylogenetic Trees with R+ggtree](https://4va.github.io/biodatasci/r-ggtree.html)

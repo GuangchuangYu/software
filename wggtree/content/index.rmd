@@ -107,7 +107,8 @@ yyplot::plot_dlstats_bioc("ggtree")
 + [BreadCrumbs](https://bitbucket.org/biobakery/breadcrumbs): Collection of scripts for metagenomics analysis
 + [DegeneratePrimerTools](https://github.com/esnapd/DegeneratePrimerTools): Utilities for Creating and Validating Degenerate primers
 + [phyloscan](https://github.com/olli0601/phyloscan): scan phylogenies created along a genome for patterns
-
++ [microbiomeViz](https://github.com/lch14forever/microbiomeViz): Visualize microbiome data
++ [ggnetworx](https://github.com/KlausVigo/ggnetworx): Phylogenetic networks using ggplot2 and ggtree
 
 ## <i class="fa fa-comments"></i> Feedback
 
