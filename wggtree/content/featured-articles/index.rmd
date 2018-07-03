@@ -20,6 +20,9 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Defining endemic cholera at three levels of spatiotemporal resolution within Bangladesh](https://www.nature.com/articles/s41588-018-0150-8).
+**_Nature Genetics_**, 2018, 50(7):951-955.
+
 [Recent Asian origin of chytrid fungi causing global amphibian declines](http://science.sciencemag.org/content/360/6389/621.full).
 **_Science_**, 2018, 360(6389):621-627.
 
