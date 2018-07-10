@@ -3,61 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/</loc>
-    <lastmod>2017-07-06T12:08:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/documentation/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/faq/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/featured-articles/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/gallery/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/tweets/</loc>
-    <lastmod>2017-07-25T00:11:02+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://guangchuangyu.github.io/software/ggtree/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/documentation/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/faq/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/featured-articles/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/gallery/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,14 +13,7 @@
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/ggtree/tweets/</loc>
-    <lastmod>2017-07-25T00:11:02+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://guangchuangyu.github.io/software/ggtree/</loc>
-    <lastmod>2017-07-06T12:08:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
