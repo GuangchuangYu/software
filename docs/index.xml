@@ -7,9 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the Artistic-2.0 license</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:11:02 +0100</lastBuildDate>
     
 	<atom:link href="https://guangchuangyu.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tweets</title>
+      <link>https://guangchuangyu.github.io/software/tweets/</link>
+      <pubDate>Sun, 01 Oct 2017 00:11:02 +0100</pubDate>
+      
+      <guid>https://guangchuangyu.github.io/software/tweets/</guid>
+      <description>Leave me a message on 
+ChIPseeker @robin_andersson @aemonten this does not consider the orientation of the genes. see one here https://t.co/kO4YXPktQw I use ChIPseeker BioC
+&amp;mdash; Ming Tang (@tangming2005) May 9, 2016  Pubmed: ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization. https://t.co/yUxCgjK5AL
+&amp;mdash; epigenetics_papers (@epigen_papers) February 2, 2016  glad to find that my #ChIPseeker package is presented in a ChIPseq Analysis workflow, http://t.co/R332NGQssI
+&amp;mdash; Guangchuang Yu (@guangchuangyu) February 4, 2015   clusterProfiler   ggimage @guangchuangyu do you have any plans to introduce repelling in #ggimage?</description>
+    </item>
+    
+    <item>
+      <title>Software authored by Guangchuang Yu</title>
+      <link>https://guangchuangyu.github.io/software/</link>
+      <pubDate>Sat, 08 Jul 2017 21:07:13 +0100</pubDate>
+      
+      <guid>https://guangchuangyu.github.io/software/</guid>
+      <description> 
+R/Bioconductor packages I have developed 10 packages on CRAN and 10 on Bioconductor. For CRAN packages, you can use install.packages() to install them directly and for Bioconductor packages, you need to follow the guide on package homepage by using biocLite() to install.
+If you are interesting, please visit package homepage to learn more.
+ CRAN  badger: Badge for R Package dlstats: Download Stats of R Packages emojifont: Emoji and Font Awesome in Graphics ggimage: Use Image in ‘ggplot2’ ggplotify: Convert Plot to ‘grob’ or ‘ggplot’ Object meme: Create Meme rvcheck: R/Package Version Check scatterpie: Scatter Pie Plot shadowtext: Shadow Text Grob and Layer tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation  Bioconductor  ChIPseeker: ChIPseeker for ChIP peak Annotation, Comparison, and Visualization clusterProfiler: statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data GOSemSim: GO-terms Semantic Similarity Measures meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis seqcombo: Visualization Tool for Sequence Recombination and Reassortment treeio: Base Classes and Functions for Phylogenetic Tree Input and Output    JAVA  TIPars: Taxa Insertion by Parsimony   Contributions to open source libraries  basicTrendline: Add Trendline of Basic Regression Models to Plot cowsay: Messages, Warnings, Strings with Ascii Animals kableExtra: Construct Complex Table with ‘kable’ and Pipe Syntax microbiomeViz: Visualizing Microbiome Data MSnbase: Base Functions and Classes for Mass Spectrometry and Proteomics scholar: Analyse Citation Data from Google Scholar   MISC  unofficial BioEdit for OSX: Biological sequence alignment editor SciHub苹果桌面版   </description>
+    </item>
     
   </channel>
 </rss>
