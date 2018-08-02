@@ -18,6 +18,9 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Risk SNP-Mediated Promoter-Enhancer Switching Drives Prostate Cancer through lncRNA PCAT19](https://www.sciencedirect.com/science/article/pii/S0092867418307396).
+**_Cell_**. 2018, 174(3):564-575.
+
 [A Single-Cell Transcriptome Atlas of the Aging Drosophila Brain](https://www.cell.com/cell/fulltext/S0092-8674(18)30720-7).
 **_Cell_**. 2018.
 
