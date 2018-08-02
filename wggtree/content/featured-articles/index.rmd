@@ -20,8 +20,12 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+
 [The role of adaptive strategies in plant naturalization](https://doi.org/10.1111/ele.13104).
 **_Ecology Letters_**, 2018.
+
+[Microbial biogeography of 925 geothermal springs in New Zealand](https://www.nature.com/articles/s41467-018-05020-y).
+**_Nature Communications_**, 2018, 9:2876.
 
 [Defining endemic cholera at three levels of spatiotemporal resolution within Bangladesh](https://www.nature.com/articles/s41588-018-0150-8).
 **_Nature Genetics_**, 2018, 50(7):951-955.
