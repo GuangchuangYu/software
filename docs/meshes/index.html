@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
     <title>meshes: MeSH Enrichment and Semantic analyses - meshes</title>
-    <meta name="generator" content="Hugo 0.30.2" />
+    <meta name="generator" content="Hugo 0.46" />
 
     
     <meta name="description" content="MeSH Enrichment and Semantic analyses">
@@ -257,14 +257,30 @@
 		<div class="wrapper">
 			<h1>meshes: MeSH Enrichment and Semantic analyses </h1>
 
-			<p><link rel="stylesheet" href="https://guangchuangyu.github.io/css/font-awesome.min.css"> <link rel="stylesheet" href="https://guangchuangyu.github.io/css/academicons.min.css"></p>
-<p><a href="https://bioconductor.org/packages/meshes"><img src="https://img.shields.io/badge/release%20version-1.6.1-blue.svg?style=flat" alt="releaseVersion" /></a> <a href="https://github.com/guangchuangyu/meshes"><img src="https://img.shields.io/badge/devel%20version-1.7.1-blue.svg?style=flat" alt="develVersion" /></a> <a href="https://bioconductor.org/packages/stats/bioc/meshes"><img src="https://img.shields.io/badge/downloads-1888/total-blue.svg?style=flat" alt="total" /></a> <a href="https://bioconductor.org/packages/stats/bioc/meshes"><img src="https://img.shields.io/badge/downloads-110/month-blue.svg?style=flat" alt="month" /></a></p>
-<p>MeSH (Medical Subject Headings) is the NLM controlled vocabulary used to manually index articles for MEDLINE/PubMed. MeSH terms were associated by Entrez Gene ID by three methods, <code>gendoo</code>, <code>gene2pubmed</code> and <code>RBBH</code>. This association is fundamental for enrichment and semantic analyses. <code>meshes</code> supports enrichment analysis (over-representation and gene set enrichment analysis) of gene list or whole expression profile. The semantic comparisons of MeSH terms provide quantitative ways to compute similarities between genes and gene groups. meshes implemented five methods proposed by <code>Resnik</code>, <code>Schlicker</code>, <code>Jiang</code>, <code>Lin</code> and <code>Wang</code> respectively and supports more than 70 species.</p>
+			<p><link rel="stylesheet" href="https://guangchuangyu.github.io/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://guangchuangyu.github.io/css/academicons.min.css"></p>
+<p><a href="https://bioconductor.org/packages/meshes"><img src="https://img.shields.io/badge/release%20version-1.6.1-blue.svg?style=flat" alt="releaseVersion" /></a>
+<a href="https://github.com/guangchuangyu/meshes"><img src="https://img.shields.io/badge/devel%20version-1.7.1-blue.svg?style=flat" alt="develVersion" /></a>
+<a href="https://bioconductor.org/packages/stats/bioc/meshes"><img src="https://img.shields.io/badge/downloads-1951/total-blue.svg?style=flat" alt="total" /></a>
+<a href="https://bioconductor.org/packages/stats/bioc/meshes"><img src="https://img.shields.io/badge/downloads-115/month-blue.svg?style=flat" alt="month" /></a></p>
+<p>MeSH (Medical Subject Headings) is the NLM controlled vocabulary used to manually index articles for MEDLINE/PubMed.
+MeSH terms were associated by Entrez Gene ID by three methods, <code>gendoo</code>, <code>gene2pubmed</code> and <code>RBBH</code>.
+This association is fundamental for enrichment and semantic analyses.
+<code>meshes</code> supports enrichment analysis (over-representation and gene set enrichment analysis) of gene list or whole expression profile.
+The semantic comparisons of MeSH terms provide quantitative ways to
+compute similarities between genes and gene groups. meshes implemented five
+methods proposed by <code>Resnik</code>, <code>Schlicker</code>, <code>Jiang</code>, <code>Lin</code> and <code>Wang</code> respectively and
+supports more than 70 species.</p>
 <p><code>meshes</code> is released within the <a href="https://bioconductor.org/packages/meshes/">Bioconductor</a> project and the source code is hosted on <a href="https://github.com/GuangchuangYu/meshes"><i class="fa fa-github fa-lg"></i> GitHub</a>.</p>
 <div id="author" class="section level2">
 <h2><i class="fa fa-user"></i> Author</h2>
 <p>Guangchuang Yu, School of Public Health, The University of Hong Kong.</p>
-<p><a href="https://twitter.com/guangchuangyu"><i class="fa fa-twitter fa-3x"></i></a> <a href="https://guangchuangyu.github.io/blog_images/biobabble.jpg"><i class="fa fa-wechat fa-3x"></i></a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Guangchuang+Yu[Author+-+Full]"><i class="ai ai-pubmed ai-3x"></i></a> <a href="https://scholar.google.com.hk/citations?user=DO5oG40AAAAJ&hl=en"><i class="ai ai-google-scholar ai-3x"></i></a> <a href="https://orcid.org/0000-0002-6485-8781"><i class="ai ai-orcid ai-3x"></i></a> <a href="https://impactstory.org/u/0000-0002-6485-8781"><i class="ai ai-impactstory ai-3x"></i></a></p>
+<p><a href="https://twitter.com/guangchuangyu"><i class="fa fa-twitter fa-3x"></i></a>
+<a href="https://guangchuangyu.github.io/blog_images/biobabble.jpg"><i class="fa fa-wechat fa-3x"></i></a>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Guangchuang+Yu[Author+-+Full]"><i class="ai ai-pubmed ai-3x"></i></a>
+<a href="https://scholar.google.com.hk/citations?user=DO5oG40AAAAJ&hl=en"><i class="ai ai-google-scholar ai-3x"></i></a>
+<a href="https://orcid.org/0000-0002-6485-8781"><i class="ai ai-orcid ai-3x"></i></a>
+<a href="https://impactstory.org/u/0000-0002-6485-8781"><i class="ai ai-impactstory ai-3x"></i></a></p>
 </div>
 <div id="installation" class="section level2">
 <h2><i class="fa fa-download"></i> Installation</h2>
@@ -354,32 +370,6 @@ biocLite(&quot;meshes&quot;)</code></pre>
 
 			<footer class="footer">
 				
-
-<nav class="pagination" aria-label="Footer">
-  <div class="previous">
-  
-  </div>
-
-  <div class="next">
-  
-      <a href="https://guangchuangyu.github.io/software/meshes/documentation/" title="Documentation">
-        <span class="direction">
-          Next
-        </span>
-        <div class="page">
-          <div class="stretch">
-            <div class="title">
-              Documentation
-            </div>
-          </div>
-          <div class="button button-next" role="button" aria-label="Next">
-            <i class="icon icon-forward"></i>
-          </div>
-        </div>
-      </a>
-  
-  </div>
-</nav>
 
 
 

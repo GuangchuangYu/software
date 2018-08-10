@@ -1,5 +1,9 @@
-all: home enrichpkg phylopkg semanticpkg
+all: home enrichpkg phylopkg semanticpkg ChIPseeker
 
+
+enrichpkg: clusterProfiler ReactomePA
+phylopkg: ggtree treeio
+semanticpkg: DOSE GOSemSim meshes
 
 home:
 	Rscript -e 'blogdown::build_site()'
@@ -9,8 +13,6 @@ ChIPseeker:
 	cd wChIPseeker;\
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
-
-semanticpkg: DOSE GOSemSim meshes
 
 DOSE:
 	cd wDOSE;\
@@ -27,8 +29,6 @@ meshes:
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
 
-enrichpkg: clusterProfiler ReactomePA
-
 clusterProfiler:
 	cd wclusterProfiler;\
 	Rscript -e 'blogdown::build_site()';\
@@ -38,8 +38,6 @@ ReactomePA:
 	cd wReactomePA;\
 	Rscript -e 'blogdown::build_site()';\
 	cd ..
-
-phylopkg: ggtree treeio
 
 ggtree:
 	cd wggtree;\

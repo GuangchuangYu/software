@@ -6,7 +6,6 @@
     <description>Recent content on ChIPseeker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Released under the Artistic-2.0 license</copyright>
     <lastBuildDate>Thu, 06 Jul 2017 12:08:13 +0100</lastBuildDate>
     
 	<atom:link href="https://guangchuangyu.github.io/software/ChIPseeker/index.xml" rel="self" type="application/rss+xml" />
@@ -19,27 +18,6 @@
       
       <guid>https://guangchuangyu.github.io/software/ChIPseeker/</guid>
       <description>This package implements functions to retrieve the nearest genes around the peak, annotate genomic region of the peak, statstical methods for estimate the significance of overlap among ChIP peak data sets, and incorporate GEO database for user to compare their own dataset with those deposited in database. The comparison can be used to infer cooperative regulation and thus can be used to generate hypotheses. Several visualization functions are implemented to summarize the coverage of the peak experiment, average profile and heatmap of peaks binding to TSS regions, genomic annotation, distance to TSS, and overlap of peaks or genes.</description>
-    </item>
-    
-    <item>
-      <title>Documentation</title>
-      <link>https://guangchuangyu.github.io/software/ChIPseeker/documentation/</link>
-      <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/ChIPseeker/documentation/</guid>
-      <description>Vignettes  ChIPseeker: an R package for ChIP peak Annotation, Comparison and Visualization    Blog posts  News and updates  BioC 3.1: NEWS of my BioC packages BioC 3.2: NEWS of my BioC packages BioC 3.3: NEWS of my BioC packages BioC 3.4: NEWS of my BioC packages parsing BED coordinates ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization    Annotation  ChIPseeker for ChIP peak annotation multiple annotation in ChIPseeker    Visualization  visualization methods in ChIPseeker upsetplot in ChIPseeker covplot supports GRangesList    Functional Enrichment Analysis  functional enrichment analysis with NGS data    Comparison  ChIPseq data mining with ChIPseeker   Find out more on https://guangchuangyu.</description>
-    </item>
-    
-    <item>
-      <title>Featured Articles</title>
-      <link>https://guangchuangyu.github.io/software/ChIPseeker/featured-articles/</link>
-      <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/ChIPseeker/featured-articles/</guid>
-      <description>Let us know if you have published using ChIPseeker and your publication will be featured here.
- 2018 Heterochromatin protects retinal pigment epithelium cells from oxidative damage by silencing p53 target genes. PNAS. 2018.
-HSV-1-induced disruption of transcription termination resembles a cellular stress response but selectively increases chromatin accessibility downstream of genes. PLoS pathogens. 2018, 14(3):e1006954.
-Enhancer variants reveal a conserved transcription factor network governed by PU.1 during osteoclast differentiation. Bone Research.</description>
     </item>
     
   </channel>
