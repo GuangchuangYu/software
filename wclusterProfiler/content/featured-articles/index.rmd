@@ -18,6 +18,9 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[IL-1β inflammatory response driven by primary breast cancer prevents metastasis-initiating cell colonization](https://www.nature.com/articles/s41556-018-0173-5).
+**_Nature Cell Biology_**. 2018, 20:1084–1097.
+
 [Risk SNP-Mediated Promoter-Enhancer Switching Drives Prostate Cancer through lncRNA PCAT19](https://www.sciencedirect.com/science/article/pii/S0092867418307396).
 **_Cell_**. 2018, 174(3):564-575.
 

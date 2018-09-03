@@ -26,6 +26,7 @@ plot_citation_trend('DO5oG40AAAAJ', 'tuHXwOkdijsC')
 
 ## Gene/Protein functional analysis
 
++ [Shifting the limits in wheat research and breeding using a fully annotated reference genome](http://science.sciencemag.org/content/361/6403/eaar7191). **Science**. 2018, 361(6403):eaar7191.
 + [Network-driven plasma proteomics expose molecular changes in the Alzheimer’s brain](http://dx.doi.org/10.1186/s13024-016-0095-2). **Molecular Neurodegeneration**. 2016, 11:31.
 + [Single-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes](http://dx.doi.org/10.1371/journal.pcbi.1004892). **PLOS Computational Biology**. 2016, 12(4):e1004892.
 + [Crosstalk of dynamic functional modules in lung development of rhesus macaques](http://dx.doi.org/10.1039/C5MB00881F>). **Mol. Biosyst.**. 2016, 12:1342-1349.
@@ -72,6 +73,10 @@ plot_citation_trend('DO5oG40AAAAJ', 'tuHXwOkdijsC')
 + [Uncovering MicroRNA and Transcription Factor Mediated Regulatory Networks in Glioblastoma](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002488). **PLoS Comput Biol**. 2012, 8(7):e1002488.
 + [myMIR: a genome-wide microRNA targets identification and annotation tool](https://bib.oxfordjournals.org/content/12/6/588.short). **Briefings in Bioinformatics**. 2011, 12(6):588-600.
 + [Functional similarity analysis of human virus-encoded miRNAs](https://jclinbioinformatics.biomedcentral.com/articles/10.1186/2043-9113-1-15). **Journal of Clinical Bioinformatics**. 2011, 1:15.
+
+### small RNA interaction
+
++ [Identification and characterization of ncRNA-associated ceRNA networks in Arabidopsis leaf development](https://doi.org/10.1186/s12864-018-4993-2). __BMC Bioinformatics__. 2018, 19:607.
 
 
 ## Cellular localization
