@@ -18,6 +18,13 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Identification of the RNA polymerase I-RNA interactome](https://doi.org/10.1093/nar/gky779).
+**_Nucleic Acids Research_**. gky779
+
+
+[Lysine benzoylation is a histone mark regulated by SIRT2](https://www.nature.com/articles/s41467-018-05567-w).
+**_Nature Communications_**. 2018, 9:3374.
+
 [IL-1β inflammatory response driven by primary breast cancer prevents metastasis-initiating cell colonization](https://www.nature.com/articles/s41556-018-0173-5).
 **_Nature Cell Biology_**. 2018, 20:1084–1097.
 
