@@ -19,7 +19,7 @@
       <guid>https://guangchuangyu.github.io/software/ReactomePA/</guid>
       <description>This package provides functions for pathway analysis based on REACTOME pathway database. It implements enrichment analysis, gene set enrichment analysis and several functions for visualization.
 ReactomePA is released within the Bioconductor project and the source code is hosted in  GitHub.
- Author Guangchuang Yu, School of Public Health, The University of Hong Kong.
+ Author Guangchuang Yu, School of Basic Medical Sciences, Southern Medical University.
      
   Citation Please cite the following article when using ReactomePA:</description>
     </item>

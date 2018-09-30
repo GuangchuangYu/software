@@ -25,7 +25,7 @@ This package provides functions for pathway analysis based on REACTOME pathway d
 
 ## <i class="fa fa-user"></i> Author
 
-Guangchuang Yu, School of Public Health, The University of Hong Kong.
+Guangchuang Yu, School of Basic Medical Sciences, Southern Medical University.
 
 <a href="https://twitter.com/guangchuangyu"><i class="fa fa-twitter fa-3x"></i></a>
 <a href="https://guangchuangyu.github.io/blog_images/biobabble.jpg"><i class="fa fa-wechat fa-3x"></i></a>

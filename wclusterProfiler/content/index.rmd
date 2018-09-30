@@ -28,7 +28,8 @@ The [clusterProfiler](https://bioconductor.org/packages/clusterProfiler/) packag
 
 ## <i class="fa fa-user"></i> Author
 
-Guangchuang Yu, School of Public Health, The University of Hong Kong.
+
+Guangchuang Yu, School of Basic Medical Sciences, Southern Medical University.
 
 
 ## <i class="fa fa-book"></i> Citation
