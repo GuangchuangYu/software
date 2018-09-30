@@ -29,7 +29,7 @@ plot_citation_trend('DO5oG40AAAAJ', 'tuHXwOkdijsC')
 + [Shifting the limits in wheat research and breeding using a fully annotated reference genome](http://science.sciencemag.org/content/361/6403/eaar7191). **Science**. 2018, 361(6403):eaar7191.
 + [Network-driven plasma proteomics expose molecular changes in the Alzheimer’s brain](http://dx.doi.org/10.1186/s13024-016-0095-2). **Molecular Neurodegeneration**. 2016, 11:31.
 + [Single-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes](http://dx.doi.org/10.1371/journal.pcbi.1004892). **PLOS Computational Biology**. 2016, 12(4):e1004892.
-+ [Crosstalk of dynamic functional modules in lung development of rhesus macaques](http://dx.doi.org/10.1039/C5MB00881F>). **Mol. Biosyst.**. 2016, 12:1342-1349.
++ [Crosstalk of dynamic functional modules in lung development of rhesus macaques](http://dx.doi.org/10.1039/C5MB00881F). **Mol. Biosyst.**. 2016, 12:1342-1349.
 + [Comparative transcriptomics reveals the conserved building blocks involved in parallel evolution of diverse phenotypic traits in ants](http://dx.doi.org/10.1186/s13059-016-0902-7). **Genome Biology**. 2016, 17:43.
 + [protr/ProtrWeb: R package and web server for generating various numerical representation schemes of protein sequences](http://bioinformatics.oxfordjournals.org/content/31/11/1857). **Bioinformatics**. 2015, 31(11):1857-1859.
 + [tRanslatome: an R/Bioconductor package to portray translational control](http://bioinformatics.oxfordjournals.org/content/30/2/289.short). **Bioinformatics**. 2014, 30(2):289-291.
@@ -91,9 +91,9 @@ plot_citation_trend('DO5oG40AAAAJ', 'tuHXwOkdijsC')
 
 ## non-coding RNA
 
-+ [Global and cell-type specific properties of lincRNAs with ribosome occupancy](http://nar.oxfordjournals.org/content/early/2016/10/12/nar.gkw909.full). ** Nucl. Acids Res**. 2016.
++ [Global and cell-type specific properties of lincRNAs with ribosome occupancy](http://nar.oxfordjournals.org/content/early/2016/10/12/nar.gkw909.full). **Nucl. Acids Res**. 2016.
 + [Advantages of mixing bioinformatics and visualization approaches for analyzing sRNA-mediated regulatory bacterial networks](https://bib.oxfordjournals.org/content/early/2014/12/03/bib.bbu045.short). **Briefings In Bioinformatics**. 2015, 16(5):795-805.
-
++ [Prediction of Non-coding RNAs as Drug Targets](https://link.springer.com/chapter/10.1007/978-981-13-0719-5_11). **Non-coding RNAs in Complex Diseases**. 2018, 1094:109-115.
 
 ## Semantic Similarity analysis
 

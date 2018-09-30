@@ -20,6 +20,8 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Phylogenetic approach to recover integration dates of latent HIV sequences within-host](https://doi.org/10.1073/pnas.1802028115).
+**_Proc Natl Acad Sci U S A_**, 2018.
 
 [The role of adaptive strategies in plant naturalization](https://doi.org/10.1111/ele.13104).
 **_Ecology Letters_**, 2018.
@@ -43,7 +45,7 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 **_Nature Communications_**, 2018, 9:693.
 
 [Molecular epidemiology reveals the role of war in the spread of HIV in Ukraine](http://dx.doi.org/10.1073/pnas.1701447115).
-**_PNAS_**, 2018, 115(5):1051-1056.
+**_Proc Natl Acad Sci U S A_**, 2018, 115(5):1051-1056.
 
 ## <i class="fa fa-calendar"></i> 2017
 
@@ -52,7 +54,7 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 
 
 [Phylogenetic analysis of the human antibody repertoire reveals quantitative signatures of immune senescence and aging](http://dx.doi.org/10.1073/pnas.1617959114).
-***PNAS***, 2017, 114(5):1105-1110.
+**_Proc Natl Acad Sci U S A_**, 2017, 114(5):1105-1110.
 
 
 [Horses in Denmark Are a Reservoir of Diverse Clones of Methicillin-Resistant and -Susceptible Staphylococcus aureus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5376617/).
