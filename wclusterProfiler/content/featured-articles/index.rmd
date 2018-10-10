@@ -18,9 +18,18 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+
 [Identification of the RNA polymerase I-RNA interactome](https://doi.org/10.1093/nar/gky779).
 **_Nucleic Acids Research_**. gky779
 
+[Epidermal Tissue Adapts to Restrain Progenitors Carrying Clonal p53 Mutations](https://www.sciencedirect.com/science/article/pii/S1934590918304028).
+**_Cell Stem Cell_**.
+
+[Structural Remodeling of the Human Colonic Mesenchyme in Inflammatory Bowel Disease](https://www.sciencedirect.com/science/article/pii/S0092867418311681).
+**_Cell_**. 2018, 175(2):372-386.
+
+[Cell cycle-resolved chromatin proteomics reveals the extent of mitotic preservation of the genomic regulatory landscape](https://www.nature.com/articles/s41467-018-06007-5).
+**_Nature Communications_**. 2018, 9:4048.
 
 [Lysine benzoylation is a histone mark regulated by SIRT2](https://www.nature.com/articles/s41467-018-05567-w).
 **_Nature Communications_**. 2018, 9:3374.

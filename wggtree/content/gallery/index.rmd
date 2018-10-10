@@ -7,6 +7,12 @@ weight: 40
 
 <link rel="stylesheet" href="https://guangchuangyu.github.io/css/font-awesome.min.css">
 
+![](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-018-32693-8/MediaObjects/41598_2018_32693_Fig5_HTML.png)
+
+<https://dx.doi.org/10.1038/s41598-018-32693-8>
+
+----
+
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6113392/bin/fmicb-09-01901-g001.jpg)
 
 <https://dx.doi.org/10.3389%2Ffmicb.2018.01901>
