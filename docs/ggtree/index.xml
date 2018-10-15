@@ -18,7 +18,7 @@
       
       <guid>https://guangchuangyu.github.io/software/ggtree/</guid>
       <description>The ggtree package extending the ggplot2 package. It based on grammar of graphics and takes all the good parts of ggplot2. ggtree is designed for not only viewing phylogenetic tree but also displaying annotation data on the tree. ggtree is released within the Bioconductor project and the source code is hosted on  GitHub.
- Authors Guangchuang Yu, School of Public Health, The University of Hong Kong.</description>
+ Authors Guangchuang Yu, School of Basic Medical Sciences, Southern Medical University.</description>
     </item>
     
   </channel>

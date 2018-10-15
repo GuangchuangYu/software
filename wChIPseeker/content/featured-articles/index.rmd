@@ -20,6 +20,10 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[MYC Interacts with the G9a Histone Methyltransferase to Drive Transcriptional Repression and Tumorigenesis](https://doi.org/10.1016/j.ccell.2018.09.001).
+**_Cancer Cell_**. 2018, 34(4):579-595.
+
+
 [NF-κB inhibition rescues cardiac function by remodeling calcium genes in a Duchenne muscular dystrophy model](https://www.nature.com/articles/s41467-018-05910-1).
 **_Nature Communications_**. 2018,  9:3431.
 

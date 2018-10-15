@@ -19,7 +19,7 @@
       <guid>https://guangchuangyu.github.io/software/DOSE/</guid>
       <description>This package implements five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang respectively for measuring semantic similarities among DO terms and gene products. Enrichment analyses including hypergeometric model and gene set enrichment analysis are also implemented for discovering disease associations of high-throughput biological data.
 DOSE is released within the Bioconductor project and the source code is hosted in  GitHub.
- Author Guangchuang Yu, School of Public Health, The University of Hong Kong.</description>
+ Author Guangchuang Yu, School of Basic Medical Sciences, Southern Medical University.</description>
     </item>
     
   </channel>
