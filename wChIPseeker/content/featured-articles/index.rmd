@@ -20,6 +20,9 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[PWWP2A binds distinct chromatin moieties and interacts with an MTA1-specific core NuRD complex](https://www.nature.com/articles/s41467-018-06665-5).
+**_Nature Communications_**. 2018, 9:4300.
+
 [MYC Interacts with the G9a Histone Methyltransferase to Drive Transcriptional Repression and Tumorigenesis](https://doi.org/10.1016/j.ccell.2018.09.001).
 **_Cancer Cell_**. 2018, 34(4):579-595.
 
@@ -29,13 +32,13 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 
 
 [MCM2 promotes symmetric inheritance of modified histones during DNA replication](https://doi.org/10.1126/science.aau0294).
-**_Science_**. 2018.
+**_Science_**. 2018, 361(6409):1389-1392.
 
 [Polycomb-mediated gene silencing by the BAH–EMF1 complex in plants](https://www.nature.com/articles/s41588-018-0190-0).
-**_Nature Genetics_**. 2018.
+**_Nature Genetics_**. 2018, 50:1254–1261.
 
 [Heterochromatin protects retinal pigment epithelium cells from oxidative damage by silencing p53 target genes](https://doi.org/10.1073/pnas.1715237115).
-**_PNAS_**. 2018.
+**_PNAS_**. 2018,  115(17):E3987-E3995.
 
 
 [HSV-1-induced disruption of transcription termination resembles a cellular stress response but selectively increases chromatin accessibility downstream of genes](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006954).
