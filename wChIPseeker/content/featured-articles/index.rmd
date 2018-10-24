@@ -20,6 +20,9 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Nervous System Regionalization Entails Axial Allocation before Neural Differentiation](https://doi.org/10.1016/j.cell.2018.09.040).
+**_Cell_**. 2018.
+
 [PWWP2A binds distinct chromatin moieties and interacts with an MTA1-specific core NuRD complex](https://www.nature.com/articles/s41467-018-06665-5).
 **_Nature Communications_**. 2018, 9:4300.
 
