@@ -15,7 +15,7 @@ home:
 
 ChIPseeker:
 	cd wChIPseeker;\
-	Rscript -e 'options(blogdown.draft.output = TRUE); blogdown::build_site()';\
+	Rscript -e 'blogdown::build_site()';\
 	cd ..
 
 DOSE:
