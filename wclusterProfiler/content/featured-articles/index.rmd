@@ -1,5 +1,5 @@
 ---
-date: 2017-07-18T21:08:13+08:00
+date: 2018-07-18T21:08:13+08:00
 title: 'Featured Articles'
 weight: 20
 ---
@@ -18,6 +18,9 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+
+[RNA polymerase II activity revealed by GRO-seq and pNET-seq in *Arabidopsis*](https://www.nature.com/articles/s41477-018-0280-0).
+**_Nature Plants_**. 
 
 [Identification of the RNA polymerase I-RNA interactome](https://doi.org/10.1093/nar/gky779).
 **_Nucleic Acids Research_**. gky779
