@@ -28,6 +28,9 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 [Epidermal Tissue Adapts to Restrain Progenitors Carrying Clonal p53 Mutations](https://www.sciencedirect.com/science/article/pii/S1934590918304028).
 **_Cell Stem Cell_**.
 
+[PRMT2 links histone H3R8 asymmetric dimethylation to oncogenic activation and tumorigenesis of glioblastoma](https://www.nature.com/articles/s41467-018-06968-7).
+**_Nature Communications_**. 2018, 9:4552.
+
 [Disrupted alternative splicing for genes implicated in splicing and ciliogenesis causes PRPF31 retinitis pigmentosa](https://www.nature.com/articles/s41467-018-06448-y).
 **_Nature Communications_**. 2018, 9:4234.
 
