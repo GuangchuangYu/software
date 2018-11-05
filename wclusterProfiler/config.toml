@@ -3,11 +3,11 @@ languageCode = "en-us"
 title = "clusterProfiler"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
-#canonifyurls = true
+canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = "UA-77901140-1"
-publishDir = "public"
-#relativeurls = true
+publishDir = "../docs/clusterProfiler"
+relativeurls = true
 ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
