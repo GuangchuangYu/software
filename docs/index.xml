@@ -6,10 +6,24 @@
     <description>Recent content on Guangchuang&#39;s software packages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2017 21:07:13 +0100</lastBuildDate>
+    <copyright>Released under the Artistic-2.0 license</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:11:02 +0100</lastBuildDate>
     
 	<atom:link href="https://guangchuangyu.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tweets</title>
+      <link>https://guangchuangyu.github.io/software/tweets/</link>
+      <pubDate>Sun, 01 Oct 2017 00:11:02 +0100</pubDate>
+      
+      <guid>https://guangchuangyu.github.io/software/tweets/</guid>
+      <description>Leave me a message on 
+ChIPseeker @robin_andersson @aemonten this does not consider the orientation of the genes. see one here https://t.co/kO4YXPktQw I use ChIPseeker BioC
+&amp;mdash; Ming Tang (@tangming2005) May 9, 2016  Pubmed: ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization. https://t.co/yUxCgjK5AL
+&amp;mdash; epigenetics_papers (@epigen_papers) February 2, 2016  glad to find that my #ChIPseeker package is presented in a ChIPseq Analysis workflow, http://t.co/R332NGQssI
+&amp;mdash; Guangchuang Yu (@guangchuangyu) February 4, 2015   clusterProfiler   ggimage @guangchuangyu do you have any plans to introduce repelling in #ggimage?</description>
+    </item>
     
     <item>
       <title>Software authored by Guangchuang Yu</title>
