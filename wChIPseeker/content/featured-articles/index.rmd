@@ -12,7 +12,7 @@ weight: 30
 [Let us know](https://github.com/GuangchuangYu/featured_img) if you have published using `ChIPseeker` and your publication will be featured here.
 
 
-```{r citation, echo=F, message=F, comment=NA, fig.width=8, fig.height=4}
+```{r citation, echo=F, message=F, comment=NA, fig.width=8, fig.height=4, eval=F}
 library("yyplot")
 
 plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
