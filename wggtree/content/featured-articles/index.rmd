@@ -20,11 +20,21 @@ plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Radiotherapy induces responses of lung cancer to CTLA-4 blockade](https://www.nature.com/articles/s41591-018-0232-2).
+**_Nature Medicine_**, 2018.
+
+[Comparative genomics reveals the distinct evolutionary trajectories of the robust and complex coral lineages](https://doi.org/10.1186/s13059-018-1552-8).
+**_Genome Biology_**, 2018.
+
+
 [Phylogenetic approach to recover integration dates of latent HIV sequences within-host](https://doi.org/10.1073/pnas.1802028115).
 **_Proc Natl Acad Sci U S A_**, 2018.
 
 [The role of adaptive strategies in plant naturalization](https://doi.org/10.1111/ele.13104).
 **_Ecology Letters_**, 2018.
+
+[The evolution of language families is shaped by the environment beyond neutral drift](https://www.nature.com/articles/s41562-018-0457-6).
+**_Nature Human Behaviour_**, 2018, 2:816–821.
 
 [Microbial biogeography of 925 geothermal springs in New Zealand](https://www.nature.com/articles/s41467-018-05020-y).
 **_Nature Communications_**, 2018, 9:2876.

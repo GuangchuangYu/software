@@ -76,6 +76,7 @@ plot_citation_trend('DO5oG40AAAAJ', 'tuHXwOkdijsC')
 
 ### small RNA interaction
 
++ [Inferring Novel Autophagy Regulators Based on Transcription Factors and Non-Coding RNAs Coordinated Regulatory Network](https://www.mdpi.com/2073-4409/7/11/194/htm). __Cell__. 2018, 7(11), 194.
 + [Identification and characterization of ncRNA-associated ceRNA networks in Arabidopsis leaf development](https://doi.org/10.1186/s12864-018-4993-2). __BMC Bioinformatics__. 2018, 19:607.
 
 

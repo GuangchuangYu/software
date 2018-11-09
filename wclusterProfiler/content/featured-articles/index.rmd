@@ -18,6 +18,8 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Disease-relevant transcriptional signatures identified in individual smooth muscle cells from healthy mouse vessels](https://www.nature.com/articles/s41467-018-06891-x).
+**_Nature Communications_**. 2018, 9:4567.
 
 [RNA polymerase II activity revealed by GRO-seq and pNET-seq in *Arabidopsis*](https://www.nature.com/articles/s41477-018-0280-0).
 **_Nature Plants_**. 
