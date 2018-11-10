@@ -32,10 +32,8 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 [MYC Interacts with the G9a Histone Methyltransferase to Drive Transcriptional Repression and Tumorigenesis](https://doi.org/10.1016/j.ccell.2018.09.001).
 **_Cancer Cell_**. 2018, 34(4):579-595.
 
-
 [NF-κB inhibition rescues cardiac function by remodeling calcium genes in a Duchenne muscular dystrophy model](https://www.nature.com/articles/s41467-018-05910-1).
 **_Nature Communications_**. 2018,  9:3431.
-
 
 [MCM2 promotes symmetric inheritance of modified histones during DNA replication](https://doi.org/10.1126/science.aau0294).
 **_Science_**. 2018, 361(6409):1389-1392.
@@ -45,7 +43,6 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 
 [Heterochromatin protects retinal pigment epithelium cells from oxidative damage by silencing p53 target genes](https://doi.org/10.1073/pnas.1715237115).
 **_PNAS_**. 2018,  115(17):E3987-E3995.
-
 
 [HSV-1-induced disruption of transcription termination resembles a cellular stress response but selectively increases chromatin accessibility downstream of genes](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006954).
 **_PLoS pathogens_**. 2018, 14(3):e1006954.
