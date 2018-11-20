@@ -18,83 +18,8 @@
       <pubDate>Thu, 06 Jul 2017 12:08:13 +0100</pubDate>
       
       <guid>https://guangchuangyu.github.io/software/ggtree/</guid>
-      <description>The ggtree package extending the ggplot2 package. It based on grammar of graphics and takes all the good parts of ggplot2. ggtree is designed for not only viewing phylogenetic tree but also displaying annotation data on the tree. ggtree is released within the Bioconductor project and the source code is hosted on  GitHub.
- Authors Guangchuang Yu, School of Basic Medical Sciences, Southern Medical University.</description>
-    </item>
-    
-    <item>
-      <title>Documentation</title>
-      <link>https://guangchuangyu.github.io/software/ggtree/documentation/</link>
-      <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/ggtree/documentation/</guid>
-      <description>Vignettes  Importing trees with data Exporting trees with data ggtree Tree Visualization Tree Annotation Tree Manipulation Phylomoji Annotating phylogenetic tree with images Annotate a phylogenetic tree with insets    Blog posts  News and updates  viewing and annotating phylogenetic tree with ggtree ggtree in Bioconductor 3.1 BioC 3.1: NEWS of my BioC packages BioC 3.2: NEWS of my BioC packages News of ggtree BioC 3.3: NEWS of my BioC packages BioC 3.</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://guangchuangyu.github.io/software/ggtree/faq/</link>
-      <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/ggtree/faq/</guid>
-      <description>Installation  Could not find function If you got this error, please make sure you are using the latest R and ggtree.
-Packages in Bioconductor, like ggtree, have different release policy compare to CRAN. There are two branches, release and devel, in parallel. Release branch is more stable and only document improvement and bug fixes will commit to it. New functions will only commit to devel branch.
-Sometimes I may write blog post to introduce new functions which is not available in release branch, you need to install the devel version of ggtree in order to use these new functions.</description>
-    </item>
-    
-    <item>
-      <title>Featured Articles</title>
-      <link>https://guangchuangyu.github.io/software/ggtree/featured-articles/</link>
-      <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/ggtree/featured-articles/</guid>
-      <description>Let us know if you have published using ggtree and your publication will be featured here.
- 2018 Phylogenetic approach to recover integration dates of latent HIV sequences within-host. Proc Natl Acad Sci U S A, 2018.
-The role of adaptive strategies in plant naturalization. Ecology Letters, 2018.
-Microbial biogeography of 925 geothermal springs in New Zealand. Nature Communications, 2018, 9:2876.
-Defining endemic cholera at three levels of spatiotemporal resolution within Bangladesh.</description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>https://guangchuangyu.github.io/software/ggtree/gallery/</link>
-      <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/ggtree/gallery/</guid>
-      <description>https://dx.doi.org/10.1038/s41598-018-32693-8
-https://dx.doi.org/10.2135/cropsci2017.10.0611
-https://dx.doi.org/10.3389%2Ffmicb.2018.01901
-https://doi.org/10.1073/pnas.1802028115
-https://doi.org/10.7717/peerj.5329
-https://doi.org/10.1016/j.ympev.2018.07.020
-https://doi.org/10.1038/s41467-018-05020-y
-https://doi.org/10.1371/journal.pntd.0006408
-https://doi.org/10.1186/s13068-018-1121-0
-https://doi.org/10.1016/S1473-3099(18)30122-1
-https://doi.org/10.1021/acssuschemeng.7b03795
-https://doi.org/10.1126/science.aao2136
-https://doi.org/10.1186/s40168-017-0331-1
-https://doi.org/10.1111/syen.12249
-https://doi.org/10.1186/s12915-017-0402-6
-https://doi.org/10.3389/fmicb.2017.00543
-https://doi.org/10.3389/fmicb.2017.00456
-https://doi.org/10.1186/s40168-017-0232-3
-https://doi.org/10.1111/2041-210X.12628
-https://doi.org/10.1128/AEM.02307-16
-https://doi.org/10.3389%2Ffcimb.2016.00036
-https://doi.org/10.1016/j.meegid.2015.12.006</description>
-    </item>
-    
-    <item>
-      <title>Tweets</title>
-      <link>https://guangchuangyu.github.io/software/ggtree/tweets/</link>
-      <pubDate>Tue, 25 Jul 2017 00:11:02 +0100</pubDate>
-      
-      <guid>https://guangchuangyu.github.io/software/ggtree/tweets/</guid>
-      <description>Leave me a message on 
-Free silhouette images for phylogenetic trees found trough the ggtree vignette: https://t.co/PdDtAB0nVN
-&amp;mdash; Valentina Galata (@GalataValentina) March 12, 2018  The R-packages from Guangchuan Yu are so extremely useful - ggtree, clusterProfiler, GOSemSim, DOSE - can we please collect them and call it the Yu-niverse?
-&amp;mdash; Philipp Bayer (@PhilippBayer) February 23, 2018  Combine #ggtree + #plotly to make a quick interactive #phylogenetic tree in #rstat.</description>
+      <description>The ggtree package extending the ggplot2 package. It based on grammar of graphics and takes all the good parts of ggplot2. ggtree is designed for not only viewing phylogenetic tree but also displaying annotation data on the tree.ggtree is released within the Bioconductor project and the source code is hosted on  GitHub.
+ AuthorsGuangchuang Yu, School of Basic Medical Sciences, Southern Medical University.</description>
     </item>
     
   </channel>
