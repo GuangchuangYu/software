@@ -37,6 +37,7 @@ plot_citation_trend('DO5oG40AAAAJ', 'tuHXwOkdijsC')
 + [EvoCor: a platform for predicting functionally related genes using phylogenetic and expression profiles](https://nar.oxfordjournals.org/content/early/2014/05/21/nar.gku442.short). **Nucleic Acids Research**. 2014, 42(W1):W72-W75.
 + [Genome-wide activity of unliganded estrogen receptor-α in breast cancer cells](http://www.pnas.org/content/111/13/4892.short). **Proc Natl Acad Sci**. 2014, 111(13):4892-4897.
 + [Constitutively Elevated Salicylic Acid Levels Alter Photosynthesis and Oxidative State but Not Growth in Transgenic *Populus*](http://www.plantcell.org/content/25/7/2714.short). **The Plant Cell**. 2013, 25(7):2714-2730.
++ [Quantifying post-transcriptional regulation in the development of Drosophila melanogaster](https://www.nature.com/articles/s41467-018-07455-9). **Nature Communications**. 2018, 9:4970.
 
 ## Expression data processing
 
