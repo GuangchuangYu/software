@@ -18,6 +18,9 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+[Comprehensive functional genomic resource and integrative model for the human brain](http://science.sciencemag.org/content/362/6420/eaat8464).
+**_Science_**. 2018, 362(6420):eaat8464.
+
 [RIG-I like receptor sensing of host RNAs facilitates the cell-intrinsic immune response to KSHV infection](https://www.nature.com/articles/s41467-018-07314-7).
 **_Nature Communications_**. 2018, 9:4841.
 

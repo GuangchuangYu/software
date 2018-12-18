@@ -20,14 +20,19 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 
 ## <i class="fa fa-calendar"></i> 2018
 
+
+
 [A CD4+ T cell population expanded in lupus blood provides B cell help through interleukin-10 and succinate](https://www.nature.com/articles/s41591-018-0254-9).
 **_Nature Medicine_**. 2018
 
 [MIR sequences recruit zinc finger protein ZNF768 to expressed genes](https://doi.org/10.1093/nar/gky1148).
 **_Nucleic Acids Research_**. 2018
 
+[Neuron-specific signatures in the chromosomal connectome associated with schizophrenia risk](http://science.sciencemag.org/content/362/6420/eaat4311).
+**_Science_**. 2018, 362(6420):eaat4311.
+
 [Nervous System Regionalization Entails Axial Allocation before Neural Differentiation](https://doi.org/10.1016/j.cell.2018.09.040).
-**_Cell_**. 2018.
+**_Cell_**. 2018, 175(4):905-907.
 
 [The DNA binding landscape of the maize AUXIN RESPONSE FACTOR family](https://www.nature.com/articles/s41467-018-06977-6).
 **_Nature Communications_**. 2018, 9:4526.
