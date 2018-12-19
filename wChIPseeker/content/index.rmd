@@ -68,9 +68,8 @@ source("https://bioconductor.org/biocLite.R")
 biocLite("ChIPseeker")
 ```
 
-```{r dlstats, echo=F, message=F, comment=NA, fig.width=8, fig.height=4}
-yyplot::plot_dlstats_bioc("ChIPseeker")
-```
+![](https://guangchuangyu.github.io/software/ChIPseeker/index_files/figure-html/dlstats-1.png)
+
 
 ## <i class="fa fa-cogs"></i> Overview
 
