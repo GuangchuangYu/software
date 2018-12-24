@@ -21,12 +21,17 @@ plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 ## <i class="fa fa-calendar"></i> 2018
 
 
+[Loss of ADAR1 in tumours overcomes resistance to immune checkpoint blockade](https://www.nature.com/articles/s41586-018-0768-9).
+**_Nature_**. 2018
 
 [A CD4+ T cell population expanded in lupus blood provides B cell help through interleukin-10 and succinate](https://www.nature.com/articles/s41591-018-0254-9).
 **_Nature Medicine_**. 2018
 
 [MIR sequences recruit zinc finger protein ZNF768 to expressed genes](https://doi.org/10.1093/nar/gky1148).
 **_Nucleic Acids Research_**. 2018
+
+[Interleukin 2 modulates thymic-derived regulatory T cell epigenetic landscape](https://www.nature.com/articles/s41467-018-07806-6).
+**_Nature Communications_**. 2018, 9:5368.
 
 [Neuron-specific signatures in the chromosomal connectome associated with schizophrenia risk](http://science.sciencemag.org/content/362/6420/eaat4311).
 **_Science_**. 2018, 362(6420):eaat4311.
