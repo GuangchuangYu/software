@@ -18,8 +18,12 @@ library("yyplot")
 plot_citation_trend('DO5oG40AAAAJ', '9pM33mqn1YgC')
 ```
 
-## <i class="fa fa-calendar"></i> 2018
+## <i class="fa fa-calendar"></i> 2019
 
+[Gene Regulatory Programs Conferring Phenotypic Identities to Human NK Cells](https://www.sciencedirect.com/science/article/pii/S0092867418315708).
+**_Cell_**. 2019
+
+## <i class="fa fa-calendar"></i> 2018
 
 [Loss of ADAR1 in tumours overcomes resistance to immune checkpoint blockade](https://www.nature.com/articles/s41586-018-0768-9).
 **_Nature_**. 2018
