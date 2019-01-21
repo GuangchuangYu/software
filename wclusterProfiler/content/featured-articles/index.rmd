@@ -16,6 +16,12 @@ yyplot::plot_citation_trend('DO5oG40AAAAJ', 'MLfJN-KU85MC')
 ```
 
 
+## <i class="fa fa-calendar"></i> 2019
+
+[Healthy infants harbor intestinal bacteria that protect against food allergy](https://www.nature.com/articles/s41591-018-0324-z).
+**_Nature Medicine_**
+
+
 ## <i class="fa fa-calendar"></i> 2018
 
 [Comprehensive functional genomic resource and integrative model for the human brain](http://science.sciencemag.org/content/362/6420/eaat8464).
