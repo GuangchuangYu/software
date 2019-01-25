@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the Artistic-2.0 license</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 21:08:13 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 21:08:13 +0800</lastBuildDate>
     
 	<atom:link href="https://guangchuangyu.github.io/software/clusterProfiler/featured-articles/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,14 +15,14 @@
     <item>
       <title>Featured Articles</title>
       <link>https://guangchuangyu.github.io/software/clusterProfiler/featured-articles/</link>
-      <pubDate>Tue, 18 Jul 2017 21:08:13 +0800</pubDate>
+      <pubDate>Wed, 18 Jul 2018 21:08:13 +0800</pubDate>
       
       <guid>https://guangchuangyu.github.io/software/clusterProfiler/featured-articles/</guid>
       <description>Let us know if you have published using clusterProfiler and your publication will be featured here.
- 2018 A Single-Cell Transcriptome Atlas of the Aging Drosophila Brain. Cell. 2018.
-Whole-genome sequencing reveals genomic signatures associated with the inflammatory microenvironments in Chinese NSCLC patients. Nature Communications. 2018, 9:2054.
-p38-MK2 signaling axis regulates RNA metabolism after UV-light-induced DNA damage. Nature Communications. 2018, 9:1017.
-Transcription factor Hoxb5 reprograms B cells into functional T lymphocytes.</description>
+ 2019 Healthy infants harbor intestinal bacteria that protect against food allergy. Nature Medicine
+  2018 Comprehensive functional genomic resource and integrative model for the human brain. Science. 2018, 362(6420):eaat8464.
+RIG-I like receptor sensing of host RNAs facilitates the cell-intrinsic immune response to KSHV infection. Nature Communications. 2018, 9:4841.
+Disease-relevant transcriptional signatures identified in individual smooth muscle cells from healthy mouse vessels.</description>
     </item>
     
   </channel>
