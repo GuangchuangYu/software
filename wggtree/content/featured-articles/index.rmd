@@ -11,11 +11,7 @@ weight: 30
 [Let us know](https://github.com/GuangchuangYu/featured_img) if you have published using `ggtree` and your publication will be featured here.
 
 
-```{r citation, echo=F, message=F, comment=NA, fig.width=8, fig.height=4}
-library("yyplot")
-
-plot_citation_trend('DO5oG40AAAAJ', 'HtEfBTGE9r8C')
-```
+![](https://guangchuangyu.github.io/software/citation_trend/ggtree.png)
 
 
 ## <i class="fa fa-calendar"></i> 2018
